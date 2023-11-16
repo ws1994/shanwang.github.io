@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please find more details about me here! [CV](https://ws1994.github.io/shanwang.github.io/files/example.pdf)
+Please find more details about me here! [CV](https://ws1994.github.io/shanwang.github.io/files/Shan_Wang_CV_latest.pdf)
