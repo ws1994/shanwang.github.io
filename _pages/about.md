@@ -12,7 +12,7 @@ Currently, I am a Postdoctoral Fellow in the Department of Computing, The Hong K
 
 ## News!
 
--We have several RA positions opening. Welcome to join us. [Advertisement](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
+- <font color=red>**We have several RA positions opening. Welcome to join us.** [Advertisement](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)</font>
 - Nov. I will serve as a TPC member for IEEE International Conference on Blockchain and Cryptocurrency (ICBC) 2024
 - July. I will serve as a TPC member for IEEE International Conference on Mobility, Sensing and Networking (MSN) 2023
 
