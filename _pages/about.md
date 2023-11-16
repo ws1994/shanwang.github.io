@@ -12,20 +12,21 @@ Currently, I am a Postdoctoral Fellow in the Department of Computing, The Hong K
 
 ## News!
 
-We have several RA positions opening. Welcome to join us. [Advertisement]
-I will ....
+-We have several RA positions opening. Welcome to join us. [Advertisement](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
+- Nov. I will serve as a TPC member for IEEE International Conference on Blockchain and Cryptocurrency (ICBC) 2024
+- July. I will serve as a TPC member for IEEE International Conference on Mobility, Sensing and Networking (MSN) 2023
 
 ## Professional Experience
 
-2023.05 - , Postdoctoral Fellow, Department of Computing, The Hong Kong Polytechnic University. Advisor: Prof. Jiannong Cao
+- 2023.05 -- , Postdoctoral Fellow, Department of Computing, The Hong Kong Polytechnic University. Advisor: Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/)
 
-2021.09-2023.05, Research Assisstant, Department of Computer Science, University of Massachusetts Lowell, USA. Advisor: Prof. Xinwen Fu  
+- 2021.09 -- 2023.05, Research Assisstant, Department of Computer Science, University of Massachusetts Lowell, USA. Advisor: Prof. [Xinwen Fu](https://www.cs.uml.edu/~xinwenfu/)  
 
 ## Education
 
-2019.09-2021.09, Joint Ph.D. Student in Computer Science, University of Massachusetts Lowell, USA. Advisor: Prof. Xinwen Fu  
+- 2019.09 -- 2021.09, Joint Ph.D. Student in Computer Science, University of Massachusetts Lowell, USA. Advisor: Prof. [Xinwen Fu](https://www.cs.uml.edu/~xinwenfu/)    
 
-2016.09-2022.12, Ph.D. in Cyberspace Security, Southeast University, China. Advisor: Prof. Ming Yang 
+- 2016.09 -- 2022.12, Ph.D. in Cyberspace Security, Southeast University, China. Advisor: Prof. [Ming Yang](https://cse.seu.edu.cn/2019/0103/c23024a257235/pagem.psp) 
 
-2012.08-2016.06, B.S. in Computer Science and Engineering, Southeast University, China 
+- 2012.08 -- 2016.06, B.S. in Computer Science and Engineering, Southeast University, China 
 
