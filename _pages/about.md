@@ -11,7 +11,7 @@ redirect_from:
 Currently, I am a Postdoctoral Fellow in the Department of Computing, The Hong Kong Polytechnic University. I obtained my Ph.D. degree from Southeast University on Dec. 19, 2022. Previously, I obtained my B.S. degree from Southeast University in 2016. My past work mainly focuses on the security problems in permissioned blockchain (especially Hyperledger Fabric). I also did some work on building automation system security and Android security. Currently, I am working on applications of crypto in blockchain and de-anonymization in public blockchain.
 
 ---
-**Email:** shanwangsec@gmail.com OR shan-cs.wang@polyu.edu.hk 
+**Email:** <shanwangsec@gmail.com> OR <shan-cs.wang@polyu.edu.hk> 
 
 **Research Interests:** Blockchain, Security
 
