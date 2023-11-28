@@ -11,7 +11,7 @@ author_profile: true
 - IEEE International Conference on Mobility, Sensing and Networking (MSN), Track of Security, Privacy, Trust and Blockchain, 2023 (Reviewed 5 papers)
 
 ## Journal Reviewer
-- IEEE Internet of Things Journal (IoT-J), 2019-2023. (Reviewed over 50 papers)
+- IEEE Internet of Things Journal (IoT-J), 2019-2023. (Reviewed about 60 papers)
 
 - IEEE Transactions on Mobile Computing (TMC), 2023
 
