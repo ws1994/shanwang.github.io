@@ -11,6 +11,6 @@ author_profile: true
 
 - **October 2022**, On Security of Proof-of-Policy (PoP) in the Execute-Order-Validate Blockchain Paradigm. Proceedings of CNS'2022.
 
--**May 2022**, BBS: A Blockchain Big-Data Sharing System. Proceedings of ICC'2022.
+- **May 2022**, BBS: A Blockchain Big-Data Sharing System. Proceedings of ICC'2022.
 
--**July 2021**, On Private Data Collection of Hyperledger Fabric. Proceedings of ICDCS'2021.
+- **July 2021**, On Private Data Collection of Hyperledger Fabric. Proceedings of ICDCS'2021.
