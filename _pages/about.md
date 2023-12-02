@@ -15,7 +15,6 @@ Currently, I am a Postdoctoral Fellow in the Department of Computing, The Hong K
 
 **Email:** <shanwangsec@gmail.com> OR <shan-cs.wang@polyu.edu.hk> 
 
----
 
 ## News!
 
