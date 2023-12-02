@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Conferences
+- **[INFOCOM 2024]** - Shan Wang, Ming Yang, Wenxuan Dai, Yu Liu, Yue Zhang, Xinwen Fu, "Deanonymizing Ethereum Users behind Third-Party RPC Services", accepted to appear in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]** 
+
+- **[INFOCOM 2024]** - Shan Jiang, Jiannong Cao, Cheung Leong Tung, Yuqin Wang, **Shan Wang**, "Sharon: Secure and Efficient Cross-shard Transaction Processing via Shard Rotation", accepted to appear in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]** 
+
 - **[ICNC 2023]** - Michael Cash, Christopher Morales-Gonzalez, **Shan Wang**, Xipeng Jin, Alex Parlato, Jason Zhu, Qun Zhou Sun, Xinwen Fu, "On False Data Injection Attack against Building Automation Systems", in Proceedings of International Conference on Computing, Networking and Communications (ICNC), Honolulu, Hawaii, USA, February 20-22, 2023.
 
 - **[CNS 2022]** - **Shan Wang**, Ming Yang, Bryan Pearson, Tingjian Ge, Xinwen Fu, Wei Zhao. "On Security of Proof-of-Policy (PoP) in the Execute-Order-Validate Blockchain Paradigm", in Proceedings of IEEE Conference on Communications and Network Security (CNS), 3–5 October 2022 // Austin, TX, USA // Hybrid: In-Person and Virtual Conference. **[43 out of 122]**
