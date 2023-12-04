@@ -12,11 +12,11 @@ author_profile: true
 
 - **[ICNC 2023]** - Michael Cash, Christopher Morales-Gonzalez, **Shan Wang**, Xipeng Jin, Alex Parlato, Jason Zhu, Qun Zhou Sun, Xinwen Fu, "On False Data Injection Attack against Building Automation Systems", in Proceedings of International Conference on Computing, Networking and Communications (ICNC), Honolulu, Hawaii, USA, February 20-22, 2023.
 
-- **[CNS 2022]** - **Shan Wang**, Ming Yang, Bryan Pearson, Tingjian Ge, Xinwen Fu, Wei Zhao. "On Security of Proof-of-Policy (PoP) in the Execute-Order-Validate Blockchain Paradigm", in Proceedings of IEEE Conference on Communications and Network Security (CNS), 3–5 October 2022 // Austin, TX, USA // Hybrid: In-Person and Virtual Conference. **[43 out of 122]**
-
 - **[ICDCS 2022]** - **Shan Wang**, Zhen Ling, Yue Zhang, Ruizhao Liu, Joshua Kraunelisk, Kang Jia, Bryan Pearson, Xinwen Fu. "Implication of Animation on Android Security", in Proceedings of 42st IEEE International Conference on Distributed Computing Systems (ICDCS), July 10 - July 13, 2022 // Bologna, Italy. **[CCF-B][AR 19.9%, 114 out of 573]**
 
 - **[ICC 2022]** - **Shan Wang**, Ming Yang, Tingjian Ge, Yan Luo, Xinwen Fu, BBS: A Blockchain Big-Data Sharing System, in Proceedings of IEEE International Conference on Communications (ICC), 16–20 May 2022 // Seoul, South Korea // Hybrid: In-Person and Virtual Conferenc. **[CCF-C]**
+
+- **[CNS 2022]** - **Shan Wang**, Ming Yang, Bryan Pearson, Tingjian Ge, Xinwen Fu, Wei Zhao. "On Security of Proof-of-Policy (PoP) in the Execute-Order-Validate Blockchain Paradigm", in Proceedings of IEEE Conference on Communications and Network Security (CNS), 3–5 October 2022 // Austin, TX, USA // Hybrid: In-Person and Virtual Conference. **[43 out of 122]**
 
 - **[ICDCS 2021]** - **Shan Wang**, Ming Yang, Yue Zhang, Yan Luo, Tingjian Ge, Xinwen Fu, Wei Zhao. "On Private Data Collection of Hyperledger Fabric", in Proceedings of 41st IEEE International Conference on Distributed Computing Systems (ICDCS), July 7 - July 10, 2021. **[CCF-B][AR 19.8%, 97 out of 489]**
 
