@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conferences
+## Conferences and Journals
 - **[INFOCOM 2024]** - **Shan Wang**, Ming Yang, Wenxuan Dai, Yu Liu, Yue Zhang, Xinwen Fu, "Deanonymizing Ethereum Users behind Third-Party RPC Services", accepted to appear in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]** 
 
 - **[INFOCOM 2024]** - Shan Jiang, Jiannong Cao, Cheung Leong Tung, Yuqin Wang, **Shan Wang**, "Sharon: Secure and Efficient Cross-shard Transaction Processing via Shard Rotation", accepted to appear in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]** 
@@ -22,7 +22,6 @@ author_profile: true
 
 - **[ICC 2021]** - Michael Cash, **Shan Wang**, Bryan Pearson, Qun Zhou, Xinwen Fu, On Automating BACnet Device Discovery and Property Identification, in Proceedings of IEEE International Conference on Communications (ICC), 14-23 June 2021 // Virtual / Montreal. DOI: 10.1109/ICC42927.2021.9500413. **[CCF-C]**
 
-## Journals
 - **[CCPE 2017]** - Ming Yang, **Shan Wang**, Zhen Ling, Yaowen Liu, and Zhenyu Ni. "Detection of malicious behavior in android apps through API calls and permission uses analysis." Concurrency and Computation: Practice and Experience 29, no. 19 (2017): e4172. **[CCF-C]**
 
 {% if author.googlescholar %}
