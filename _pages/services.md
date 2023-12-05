@@ -21,6 +21,8 @@ author_profile: true
 
 - Elsevier Journal of Systems Architecture: Embedded Software Design (JSA), 2023
 
+- IEEE Transactions on Green Communications and Networking, 2023
+
 ## Conference Sub-Reviewer
 - IEEE International Conference on Computer Communications (INFOCOM) 2022-2024 (Reviewed 5 papers)
 
