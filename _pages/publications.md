@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Conferences and Journals
+1. **[ICNC 2024]** - Lan Luo, Christopher Morales-Gonzalez, **Shan Wang**, Zhen Ling, Xinwen Fu, "Unified View of IoT and CPS Security and Privacy" [C], in Proceedings of International Conference on Computing, Networking and Communications (ICNC), Big Island, Hawaii, USA, February 19-22, 2024.
+
 1. **[INFOCOM 2024]** - **Shan Wang**, Ming Yang, Wenxuan Dai, Yu Liu, Yue Zhang, Xinwen Fu, "Deanonymizing Ethereum Users behind Third-Party RPC Services" [C], accepted to appear in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]** 
 
 1. **[INFOCOM 2024]** - Shan Jiang, Jiannong Cao, Cheung Leong Tung, Yuqin Wang, **Shan Wang**, "Sharon: Secure and Efficient Cross-shard Transaction Processing via Shard Rotation" [C], accepted to appear in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]** 
