@@ -19,6 +19,8 @@ author_profile: true
 
 - ACM Computing Surveys (CSUR), 2023
 
+- ACM Transactions on Sensor Networks (TOSN), 2023
+
 - Elsevier Journal of Systems Architecture: Embedded Software Design (JSA), 2023
 
 - IEEE Transactions on Green Communications and Networking (TGCN), 2023
