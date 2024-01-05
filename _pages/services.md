@@ -5,6 +5,9 @@ permalink: /services/
 author_profile: true
 ---
 
+## Conference Organization
+- Local organization and registration co-chair, ACM/IFIP Middleware 2024
+
 ## TPC Member
 - IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2024
 
