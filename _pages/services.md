@@ -9,6 +9,8 @@ author_profile: true
 - Local organization and registration co-chair, ACM/IFIP Middleware 2024
 
 ## TPC Member
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024
+
 - IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2024
 
 - IEEE International Conference on Mobility, Sensing and Networking (MSN), Track of Security, Privacy, Trust and Blockchain, 2023 (Reviewed 5 papers)
