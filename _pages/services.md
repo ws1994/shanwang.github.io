@@ -13,7 +13,7 @@ author_profile: true
   
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024
 
-- IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2024
+- IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2024 (Reviewed 4 papers)
 
 - IEEE International Conference on Mobility, Sensing and Networking (MSN), Track of Security, Privacy, Trust and Blockchain, 2023 (Reviewed 5 papers)
 
