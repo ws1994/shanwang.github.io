@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "Background"
-excerpt: "background"
+permalink: /background/
 author_profile: true
 ---
 
