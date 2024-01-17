@@ -3,9 +3,6 @@ permalink: /
 title: "Background"
 excerpt: "background"
 author_profile: true
-redirect_from: 
-  - /background/
-  - /background.html
 ---
 
 ## Professional Experience
