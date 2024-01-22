@@ -7,7 +7,8 @@ author_profile: true
 
 ## Conference Organization
 - Local organization and registration co-chair, ACM/IFIP Middleware 2024
-- Publicity chair, The 5th EAI International Conference on Edge Computing and IoT: Systems, Management and Security (ICECI 2024)
+  
+- Publicity and social media chair, The 5th EAI International Conference on Edge Computing and IoT: Systems, Management and Security (ICECI 2024)
 
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
