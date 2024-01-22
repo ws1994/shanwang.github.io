@@ -19,6 +19,7 @@ Currently, I am a Postdoctoral Fellow in the Department of Computing, The Hong K
 ## News!
 
 - **We have several RA positions opening. Welcome to join us!** [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
+- **Jan. 2024** I will serve as Publicity Chair for The 5th EAI International Conference on Edge Computing and IoT: Systems, Management and Security (ICECI 2024)!
 - **Jan. 2024** I will serve as a TPC member for The 21th IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2024)!
 - **Jan. 2024** I will serve as a local organization and registration co-chair for ACM/IFIP Middleware 2024!
 - **Dec. 2023** Two INFOCOM 2024 papers on Blockchain accepted!
