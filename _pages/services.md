@@ -22,6 +22,8 @@ author_profile: true
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 60 papers)
 
+- IEEE Transactions on Dependable and Secure Computing (TDSC), 2024
+
 - IEEE Transactions on Mobile Computing (TMC), 2023
 
 - IEEE Transactions on Wireless Communications (TWC), 2023
