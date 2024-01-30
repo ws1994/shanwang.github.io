@@ -36,6 +36,8 @@ author_profile: true
 
 - IEEE Transactions on Green Communications and Networking (TGCN), 2023
 
+- PeerJ Computer Science, 2024
+
 ## Conference Sub-Reviewer
 - IEEE International Conference on Computer Communications (INFOCOM) 2022-2024 (Reviewed 5 papers)
 
