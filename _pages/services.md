@@ -24,11 +24,11 @@ author_profile: true
 
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2024
 
-- PeerJ Computer Science, 2024
-
 - IEEE Transactions on Mobile Computing (TMC), 2023
 
 - IEEE Transactions on Wireless Communications (TWC), 2023
+
+- IEEE Transactions on Green Communications and Networking (TGCN), 2023
 
 - ACM Computing Surveys (CSUR), 2023
 
@@ -36,7 +36,8 @@ author_profile: true
 
 - Elsevier Journal of Systems Architecture: Embedded Software Design (JSA), 2023
 
-- IEEE Transactions on Green Communications and Networking (TGCN), 2023
+- PeerJ Computer Science, 2024
+
   
 
 ## Conference Sub-Reviewer
