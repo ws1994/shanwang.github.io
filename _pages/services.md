@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 ## Conference Organization
-- Local organization and registration co-chair, ACM/IFIP Middleware 2024
+- Local organization and registration co-chair, ACM/IFIP [Middleware 2024](https://middleware-conf.github.io/2024/organizing-committee/)
   
-- Publicity and social media chair, The 5th EAI International Conference on Edge Computing and IoT: Systems, Management and Security (ICECI 2024)
+- Publicity and social media chair, The 5th EAI International Conference on Edge Computing and IoT: Systems, Management and Security ([ICECI 2024](https://iceci-conference.eai-conferences.org/2024/organizing-committee/))
 
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
   
-- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024 (Security and Privacy Track)
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024 ([Security and Privacy Track](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0))
 
-- IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2024 (Reviewed 4 papers)
+- IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024 (Reviewed 4 papers)
 
-- IEEE International Conference on Mobility, Sensing and Networking (MSN), 2023 (Track of Security, Privacy, Trust and Blockchain) (Reviewed 5 papers)
+- IEEE International Conference on Mobility, Sensing and Networking (MSN), 2023 ([Track of Security, Privacy, Trust and Blockchain](https://ieee-msn.org/2023/progcom.php)) (Reviewed 5 papers)
 
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 60 papers)
