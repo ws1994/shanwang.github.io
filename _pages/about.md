@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Postdoctoral Fellow in the Department of Computing, The Hong Kong Polytechnic University. I obtained my Ph.D. degree from Southeast University on Dec. 19, 2022. Previously, I obtained my B.S. degree from Southeast University in 2016. My past work mainly focuses on the security problems in permissioned blockchain (especially Hyperledger Fabric). I also did some work on building automation system security and Android security. Currently, I am working on applications of crypto in blockchain and de-anonymization in public blockchain.
+I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Kong Polytechnic University. I obtained my Ph.D. degree from Southeast University on Dec. 19, 2022. Prior to that, I obtained my B.S. degree from Southeast University in 2016. In the period from Sep. 2019 to May 2023, I studied at UMass Lowell as a visiting scholar. My past work mainly focuses on the security problems in permissioned blockchain (especially Hyperledger Fabric). Additionally, I also involved in a few work on building automation system security and Android security. Currently, I am working on applications of crypto in blockchain and de-anonymization in public blockchain.
 
 ---
 **Research Interests:** Blockchain Security, Android Security, CPS Security
