@@ -43,6 +43,8 @@ author_profile: true
 
 - PeerJ Computer Science, 2024
 
+- Computer Modeling in Engineering & Sciences (CMES), 2024
+
   
 
 ## Conference Sub-Reviewer
