@@ -23,7 +23,7 @@ author_profile: true
 - IEEE International Conference on Mobility, Sensing and Networking (MSN), 2023 ([Track of Security, Privacy, Trust and Blockchain](https://ieee-msn.org/2023/progcom.php)) (Reviewed 5 papers)
 
 ## Journal Reviewer
-- IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 60 papers)
+- IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 70 papers)
 
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2024
 
