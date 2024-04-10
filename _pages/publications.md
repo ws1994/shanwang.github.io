@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conferences and Journals 
 
-1. **[JSA 2024]** - **Shan Wang**, Ming Yang, Shan Jiang, Fei Chen, Yue Zhang, Xinwen Fu, "BBS: A Secure and Autonomous Blockchain-based Big-Data Sharing System" [J], Elsevier Journal of Systems Architecture (JSA), Volume 150, May 2024, 103133. **[CCF-B][JCR Q1]**
+1. **[JSA 2024]** - **Shan Wang**, Ming Yang, Shan Jiang, Fei Chen, Yue Zhang, Xinwen Fu, "BBS: A Secure and Autonomous Blockchain-based Big-Data Sharing System" [J], Elsevier Journal of Systems Architecture (JSA), Volume 150, May 2024, 103133. **[CCF-B][JCR Q1]** [[Paper]](/files/J2_JSA2024_BBS.pdf)
 
 1. **[INFOCOM 2024]** - **Shan Wang**, Ming Yang, Wenxuan Dai, Yu Liu, Yue Zhang, Xinwen Fu, "Deanonymizing Ethereum Users behind Third-Party RPC Services" [C], accepted to appear in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]** 
 
