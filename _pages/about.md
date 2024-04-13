@@ -22,7 +22,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **April 2024** One paper on blockchain and crypto is accepted by ICDCS 2024!
 
-- **March 2024** One paper on blockchain-based data sharing system is accepted by Elsevier JSA!
+- **March 2024** One paper on blockchain-based data sharing system is accepted by Elsevier Journal of Systems Architecture 
+ (JSA)!
 
 - **March 2024** I will serve as an organizing chair for The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse (STIM 2024)!
 
