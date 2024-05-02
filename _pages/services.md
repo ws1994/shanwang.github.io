@@ -16,11 +16,11 @@ author_profile: true
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
   
-- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024 ([Security and Privacy Track](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0))
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024 ([Security and Privacy Track](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)) (2 papers)
 
-- IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024 (Reviewed 4 papers)
+- IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024 (4 papers)
 
-- IEEE International Conference on Mobility, Sensing and Networking (MSN), 2023 ([Track of Security, Privacy, Trust and Blockchain](https://ieee-msn.org/2023/progcom.php)) (Reviewed 5 papers)
+- IEEE International Conference on Mobility, Sensing and Networking (MSN), 2023 ([Track of Security, Privacy, Trust and Blockchain](https://ieee-msn.org/2023/progcom.php)) (5 papers)
 
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 70 papers)
