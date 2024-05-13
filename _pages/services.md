@@ -9,7 +9,7 @@ author_profile: true
 
 - Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html))!
 
-- Local organization and registration co-chair, ACM/IFIP [Middleware 2024](https://middleware-conf.github.io/2024/organizing-committee/)
+- Local organization and registration co-chair, The 25th ACM/IFIP Middleware Conference [2024](https://middleware-conf.github.io/2024/organizing-committee/)
   
 - Publicity and social media chair, The 5th EAI International Conference on Edge Computing and IoT: Systems, Management and Security ([ICECI 2024](https://iceci-conference.eai-conferences.org/2024/organizing-committee/))
 
