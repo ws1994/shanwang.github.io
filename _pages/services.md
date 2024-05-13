@@ -15,6 +15,8 @@ author_profile: true
 
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
+
+- ACM/IFIP Middleware, 2024 (Spring/Summer Cycle)
   
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024 ([Security and Privacy Track](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)) (2 papers)
 
