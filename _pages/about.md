@@ -20,7 +20,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us!** [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
-- **May 2024** I will serve as a TPC member for ACM/IFIP Middleware 2024 (Spring/Summer Cycle)!
+- **May 2024** I will serve as a TPC member for The 25th ACM/IFIP Middleware Conference 2024 (Spring/Summer Cycle)!
 
 - **April 2024** One paper on blockchain and crypto is accepted by ICDCS 2024!
 
