@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **May 2024**, Deanonymizing Ethereum Users behind Third-Party RPC Services. Proceedings of INFOCOM'2024.
+
 - **April 2024**, Blockchain-based Data Sharing. Host: Prof. Fei Chen at Shenzhen University.
 
 - **January 2023**, On Data Security in Permissioned Blockchains. Dept. of Computer Science, Virginia Tech.
