@@ -60,6 +60,8 @@ author_profile: true
 
 - EAI International Conference on Security and Privacy in Communication Networks (SecureComm) 2023 (Reviewed 4 papers)
 
+- IEEE International Conference on Mobile Ad Hoc and Smart Systems (MASS) 2024
+
 - IEEE International Conference on Computer Communications and Networks (ICCCN) 2024
 
 - IEEE International Conference on Blockchain (Blockchain), 2023
