@@ -64,7 +64,7 @@ author_profile: true
 
 - IEEE International Conference on Computer Communications and Networks (ICCCN) 2024
 
-- IEEE International Conference on Blockchain (Blockchain), 2023
+- IEEE International Conference on Blockchain (Blockchain), 2023-2024
 
 - IEEE Conference on Dependable and Secure Computing (DSC) 2023
 
