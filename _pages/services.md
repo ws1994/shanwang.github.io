@@ -13,6 +13,10 @@ author_profile: true
   
 - Publicity and social media chair, The 5th EAI International Conference on Edge Computing and IoT: Systems, Management and Security ([ICECI 2024](https://iceci-conference.eai-conferences.org/2024/organizing-committee/))
 
+## Journal Editors
+
+- Guest Editor, Special Issue "[Symmetry and Asymmetry in IoT Security](https://www.mdpi.com/journal/symmetry/special_issues/I29705V1C3)", MDPI Symmetry (ISSN 2073-8994), JCR-Q2, IF 2.7
+
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
 
