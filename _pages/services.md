@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Organization
 
-- Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html))
+- Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong
 
 - Local organization and registration co-chair, The 25th ACM/IFIP [Middleware Conference 2024](https://middleware-conf.github.io/2024/organizing-committee/)
   
