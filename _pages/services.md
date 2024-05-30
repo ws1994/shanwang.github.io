@@ -62,7 +62,7 @@ author_profile: true
 
 - IEEE Conference on Communications and Network Security (CNS) 2020-2023.  (Reviewed 9 papers)
 
-- EAI International Conference on Security and Privacy in Communication Networks (SecureComm) 2023 (Reviewed 4 papers)
+- EAI International Conference on Security and Privacy in Communication Networks (SecureComm) 2023-2024 (Reviewed 6 papers)
 
 - IEEE International Conference on Mobile Ad Hoc and Smart Systems (MASS) 2024
 
