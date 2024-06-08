@@ -66,6 +66,8 @@ author_profile: true
 
 - IEEE International Conference on Mobile Ad Hoc and Smart Systems (MASS) 2024
 
+- IEEE Global Communications Conference (GLOBECOM) 2024
+
 - IEEE International Conference on Computer Communications and Networks (ICCCN) 2024
 
 - IEEE International Conference on Blockchain (Blockchain), 2023-2024
