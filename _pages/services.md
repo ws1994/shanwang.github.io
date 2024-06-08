@@ -7,9 +7,9 @@ author_profile: true
 
 ## Conference Organization
 
-- Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong
+- Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong (4 papers)
 
-- Local organization and registration co-chair, The 25th ACM/IFIP [Middleware Conference 2024](https://middleware-conf.github.io/2024/organizing-committee/)
+- Local organization and registration co-chair, The 25th ACM/IFIP [Middleware Conference 2024](https://middleware-conf.github.io/2024/organizing-committee/) 
   
 - Publicity and social media chair, The 5th EAI International Conference on Edge Computing and IoT: Systems, Management and Security ([ICECI 2024](https://iceci-conference.eai-conferences.org/2024/committees/))
 
@@ -20,7 +20,7 @@ author_profile: true
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
 
-- The 25th ACM/IFIP Middleware Conference, 2024 ([Spring/Summer Cycle](https://middleware-conf.github.io/2024/program-committee/))
+- The 25th ACM/IFIP Middleware Conference, 2024 ([Spring/Summer Cycle](https://middleware-conf.github.io/2024/program-committee/)) (7 papers)
   
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024 ([Security and Privacy Track](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)) (2 papers)
 
