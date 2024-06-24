@@ -20,6 +20,8 @@ author_profile: true
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
 
+- The Sixth International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024
+
 - IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024
 
 - The 25th ACM/IFIP Middleware Conference, 2024 ([Spring/Summer Cycle](https://middleware-conf.github.io/2024/program-committee/)) (7 papers)
