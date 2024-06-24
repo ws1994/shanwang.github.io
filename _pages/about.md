@@ -20,6 +20,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us!** [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
+- **June 2024** I will serve as a TPC member for The 29th IEEE PRDC 2024, and for The 6th International Workshop on SLICE 2024 (Co-localted with MASS 2024)!
+
 - **May 2024** I will serve as a Guest Editor for special issue "[Symmetry and Asymmetry in IoT Security](https://www.mdpi.com/journal/symmetry/special_issues/I29705V1C3)" of MDPI Symmetry (ISSN 2073-8994), JCR-Q2, IF 2.7！
 
 - **May 2024** I will serve as a TPC member for The 25th ACM/IFIP Middleware Conference 2024 (Spring/Summer Cycle)!
