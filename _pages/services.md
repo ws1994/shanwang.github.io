@@ -20,17 +20,17 @@ author_profile: true
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
 
-- The 6th International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024 (Co-located with MASS 2024)
+- 6th International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024 (Co-located with MASS 2024)
 
-- The 29th IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024
+- 29th IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024
 
-- The 25th ACM/IFIP Middleware Conference, 2024 ([Spring/Summer Cycle](https://middleware-conf.github.io/2024/program-committee/)) (7 papers)
+- 25th ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024 (Spring/Summer Cycle) (7 papers)
   
-- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2024 ([Security and Privacy Track](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)) (2 papers)
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems ([MASS](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)), 2024, (Security and Privacy Track) (2 papers)
 
 - IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024 (4 papers)
 
-- IEEE International Conference on Mobility, Sensing and Networking (MSN), 2023 ([Track of Security, Privacy, Trust and Blockchain](https://ieee-msn.org/2023/progcom.php)) (5 papers)
+- IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023 (Track of Security, Privacy, Trust and Blockchain) (5 papers)
 
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 70 papers)
