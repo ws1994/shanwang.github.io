@@ -20,6 +20,8 @@ author_profile: true
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
 
+- IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2024
+
 - 6th International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024 (Co-located with MASS 2024)
 
 - 29th IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024
