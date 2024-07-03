@@ -20,6 +20,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us!** [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
+- **July 2024** **We won the 44th IEEE ICDCS 2024 Distinguished Paper Award!** 
+
 - **July 2024** I will serve as a TPC member for IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2024!
 
 - **June 2024** I will serve as a TPC member for 29th IEEE PRDC 2024, and for 6th International Workshop on SLICE 2024 (Co-localted with MASS 2024)!
