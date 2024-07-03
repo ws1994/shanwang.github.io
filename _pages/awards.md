@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+- **2024:** **Distinguished Paper Award. The 44th IEEE ICDCS 2024!** 
+
 - **2022:** The 2nd China Blockchain Security Competition. The Third Prize. ¥2w
   
 &ensp;&ensp;&ensp;&ensp; -- DoS attacks against Enterprise Ethereum and Hyperledger Fabric
