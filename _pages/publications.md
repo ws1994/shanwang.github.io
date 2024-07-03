@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conferences and Journals 
 
-1. **[ICDCS 2024]** - **Shan Wang**, Ming Yang, Jiannong Cao, Zhen Ling, Qiang Tang, and Xinwen Fu, "CORE: Transaction Commit-Controlled Release of Private Data over Blockchains" [C], in Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS). Jersey City, New Jersey, USA. 23 July - 26 July, 2024. **[CCF-B] [AR 21.9%, 121 out of 552]** 
+1. **[ICDCS 2024]** - **Shan Wang**, Ming Yang, Jiannong Cao, Zhen Ling, Qiang Tang, and Xinwen Fu, "CORE: Transaction Commit-Controlled Release of Private Data over Blockchains" [C], in Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS). Jersey City, New Jersey, USA. 23 July - 26 July, 2024. **[CCF-B] [AR 21.9%, 121 out of 552][Distinguished Paper Award]** 
 
 1. **[JSA 2024]** - **Shan Wang**, Ming Yang, Shan Jiang, Fei Chen, Yue Zhang, Xinwen Fu, "BBS: A Secure and Autonomous Blockchain-based Big-Data Sharing System" [J], Elsevier Journal of Systems Architecture (JSA), Volume 150, May 2024, 103133. **[CCF-B][JCR Q1]** [[Paper]](https://ws1994.github.io/shanwang.github.io/files/J2_JSA2024_BBS.pdf)
 
