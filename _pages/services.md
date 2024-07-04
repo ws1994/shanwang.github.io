@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Organization
 
+- Session Chair, IEEE International Conference on Distributed Computing Systems (ICDCS) 2024 ([Session of Blockchain Scalability and Payments](https://icdcs2024.icdcs.org/main-conference-program/))
+
 - Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong (4 papers)
 
 - Local organization and registration co-chair, The 25th ACM/IFIP [Middleware Conference 2024](https://middleware-conf.github.io/2024/organizing-committee/) 
