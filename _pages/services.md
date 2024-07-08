@@ -78,7 +78,7 @@ author_profile: true
 
 - IEEE International Conference on Computer Communications and Networks (ICCCN) 2024
 
-- The 24rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2024)
+- IEEE International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2024
 
 - IEEE International Conference on Blockchain (Blockchain), 2023-2024
 
