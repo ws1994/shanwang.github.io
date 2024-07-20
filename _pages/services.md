@@ -55,9 +55,9 @@ author_profile: true
 
 - ACM Transactions on Sensor Networks (TOSN), 2023
 
-- Elsevier Computer Communications, 2024
+- Elsevier Computer Communications (COMCOM), 2024
 
-- Elsevier Computer Networks, 2024
+- Elsevier Computer Networks (COMNET), 2024
 
 - Elsevier Journal of Systems Architecture: Embedded Software Design (JSA), 2023
 
