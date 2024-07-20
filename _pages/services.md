@@ -57,6 +57,8 @@ author_profile: true
 
 - Elsevier Computer Communications, 2024
 
+- Elsevier Computer Networks, 2024
+
 - Elsevier Journal of Systems Architecture: Embedded Software Design (JSA), 2023
 
 - PeerJ Computer Science, 2024
