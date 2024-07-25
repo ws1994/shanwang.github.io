@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **July 2024**, CORE: Transaction Commit-Controlled Release of Private Data over Blockchains. Pro-
+ceedings of ICDCS’2024.
+
 - **May 2024**, Deanonymizing Ethereum Users behind Third-Party RPC Services. Proceedings of INFOCOM'2024.
 
 - **April 2024**, Blockchain-based Data Sharing. Host: Prof. Fei Chen at Shenzhen University.
