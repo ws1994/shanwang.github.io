@@ -24,7 +24,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **July 2024** **We win the 44th IEEE ICDCS 2024 Distinguished Paper Award!**
 
-- **July 2024** I will serve as a TPC member for IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2024!
+- **July 2024** I will serve as a TPC member for IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2024, and the Sixth International Conference on Blockchain Computing and Applications (BCCA) 2024!
 
 - **June 2024** I will serve as a TPC member for 29th IEEE PRDC 2024, and for 6th International Workshop on SLICE 2024 (Co-localted with MASS 2024)!
 
