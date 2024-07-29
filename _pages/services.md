@@ -22,7 +22,7 @@ author_profile: true
 ## TPC Member
 - IEEE International Conference on Communications (ICC), 2025
 
-- 6th International Conference on Blockchain Computing and Applications ([BCCA](https://bcca-conference.org/2024/committee.php)), 2024
+- 6th IEEE International Conference on Blockchain Computing and Applications ([BCCA](https://bcca-conference.org/2024/committee.php)), 2024
 
 - IEEE International Conference on Parallel and Distributed Systems ([ICPADS](https://attend.ieee.org/icpads/)), 2024
 
