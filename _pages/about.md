@@ -20,6 +20,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us! [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
+- **August 2024** I will serve as a TPC member for IEEE International Conference on Mobility, Sensing and Networking (MSN) 2024, Track of Security, Privacy, Trust and Blockchain!
+
 - **July 2024** I was awarded a Travel Grant supported by IEEE to attend ICDCS 2024!
 
 - **July 2024** **We win the 44th IEEE ICDCS 2024 Distinguished Paper Award!**
