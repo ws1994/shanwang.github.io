@@ -36,7 +36,7 @@ author_profile: true
 
 - IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024 (4 papers)
 
-- IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023 (Track of Security, Privacy, Trust and Blockchain) (5 papers)
+- IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023-2024 (Track of Security, Privacy, Trust and Blockchain) (5 papers)
 
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 70 papers)
