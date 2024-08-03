@@ -59,8 +59,6 @@ author_profile: true
 
 - Elsevier Computer Communications (COMCOM), 2024
 
-- Elsevier Computer Networks (COMNET), 2024
-
 - Elsevier Journal of Systems Architecture: Embedded Software Design (JSA), 2023
 
 - PeerJ Computer Science, 2024
