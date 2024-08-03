@@ -84,7 +84,7 @@ author_profile: true
 
 - IEEE International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2024
 
-- IEEE International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2024
+- IEEE International Performance Computing and Communications Conference (IPCCC) 2024
 
 - IEEE International Conference on Blockchain (Blockchain) 2023-2024
 
