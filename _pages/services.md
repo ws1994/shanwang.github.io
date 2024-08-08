@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Organization
 
+- Session chair, IEEE International Conference on Metaverse Computing, Networking, and Applications (MetaCom) 2024, (Session 3: Security, Privacy, and Trust)
+
 - Session chair, IEEE International Conference on Distributed Computing Systems ([ICDCS](https://icdcs2024.icdcs.org/main-conference-program/)) 2024 (Session of Blockchain Scalability and Payments)
 
 - Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong (4 papers)
