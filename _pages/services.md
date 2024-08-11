@@ -24,7 +24,6 @@ author_profile: true
 - Guest Editor, Special Issue "[Symmetry and Asymmetry in IoT Security](https://www.mdpi.com/journal/symmetry/special_issues/I29705V1C3)", MDPI Symmetry (ISSN 2073-8994), JCR-Q2, IF 2.7
 
 ## TPC Member
-- IEEE International Conference on Communications (ICC), 2025
 
 - 6th IEEE International Conference on Blockchain Computing and Applications ([BCCA](https://bcca-conference.org/2024/committee.php)), 2024
 
