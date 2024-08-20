@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **August 2024**, Blockchain-based Data Sharing. JSSEC at Southeast University.
+
 - **July 2024**, CORE: Transaction Commit-Controlled Release of Private Data over Blockchains. Proceedings of ICDCS’2024.
 
 - **May 2024**, Deanonymizing Ethereum Users behind Third-Party RPC Services. Proceedings of INFOCOM'2024.
