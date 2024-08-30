@@ -60,6 +60,8 @@ author_profile: true
 
 - ACM Transactions on Sensor Networks (TOSN), 2023
 
+- ACM Transactions on Privacy and Security (TOPS), 2024
+
 - Elsevier Computer Communications (COMCOM), 2024
 
 - Elsevier Journal of Systems Architecture: Embedded Software Design (JSA), 2023
