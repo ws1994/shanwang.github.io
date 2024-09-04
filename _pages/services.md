@@ -13,7 +13,7 @@ author_profile: true
 
 - Session chair, IEEE International Conference on Distributed Computing Systems ([ICDCS](https://icdcs2024.icdcs.org/main-conference-program/)) 2024 (Session of Blockchain Scalability and Payments)
 
-- Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong (4 papers)
+- Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong
 
 - Local organization and registration co-chair, The 25th ACM/IFIP [Middleware Conference 2024](https://middleware-conf.github.io/2024/organizing-committee/) 
   
@@ -33,18 +33,18 @@ author_profile: true
 
 - 29th IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024
 
-- 25th ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024 (Spring/Summer Cycle) (7 papers)
+- 25th ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024 (Spring/Summer Cycle) 
   
-- IEEE International Conference on Mobile Ad-Hoc and Smart Systems ([MASS](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)), 2024, (Security and Privacy Track) (2 papers)
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems ([MASS](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)), 2024, (Security and Privacy Track) 
 
-- IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024 (4 papers)
+- IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024 
 
-- IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023-2024 (Track of Security, Privacy, Trust and Blockchain) (5 papers)
+- IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023-2024 (Track of Security, Privacy, Trust and Blockchain) 
 
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 70 papers)
 
-- IEEE Transactions on Dependable and Secure Computing (TDSC), 2024 (Reviewed 2 papers)
+- IEEE Transactions on Dependable and Secure Computing (TDSC), 2024 
 
 - IEEE Transactions on Information Forensics & Security (TIFS), 2024 
 
@@ -95,7 +95,7 @@ author_profile: true
 
 - IEEE Conference on Dependable and Secure Computing (DSC) 2023
 
-- IEEE Military Communications Conference (MILCOM) 2022 (Reviewed 2 papers)
+- IEEE Military Communications Conference (MILCOM) 2022 
 
 - International Conference on Science of Cyber Security (SciSec) 2021
 
