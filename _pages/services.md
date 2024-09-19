@@ -21,7 +21,7 @@ author_profile: true
 
 ## Journal Editors
 
-- Guest Editor, Special Issue "Secure Data Privacy and Encryption in Digital Networks", MDPI Electronics (ISSN 2079-9292), JCR-Q2, IF 2.6 
+- Guest Editor, Special Issue "[Secure Data Privacy and Encryption in Digital Networks](https://www.mdpi.com/journal/electronics/special_issues/8K87O1YV29)", MDPI Electronics (ISSN 2079-9292), JCR-Q2, IF 2.6 
 
 - Guest Editor, Special Issue "[Symmetry and Asymmetry in IoT Security](https://www.mdpi.com/journal/symmetry/special_issues/I29705V1C3)", MDPI Symmetry (ISSN 2073-8994), JCR-Q2, IF 2.7
 
