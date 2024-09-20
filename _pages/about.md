@@ -20,6 +20,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us! [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
+- **September 2024** I will serve as a TPC member for The 26th ACM/IFIP Middleware Conference 2025!
+
 - **September 2024** I will serve as a Guest Editor for special issue "[Secure Data Privacy and Encryption in Digital Networks](https://www.mdpi.com/journal/electronics/special_issues/8K87O1YV29)", MDPI Electronics (ISSN 2079-9292), JCR-Q2, IF 2.6!
 
 - **August 2024** I will serve as a TPC member for IEEE International Conference on Mobility, Sensing and Networking (MSN) 2024, Track of Security, Privacy, Trust and Blockchain!
