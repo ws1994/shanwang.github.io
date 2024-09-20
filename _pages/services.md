@@ -27,6 +27,10 @@ author_profile: true
 
 ## TPC Member
 
+- ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024-2025
+
+- IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023-2024 (Track of Security, Privacy, Trust and Blockchain) 
+
 - 6th IEEE International Conference on Blockchain Computing and Applications ([BCCA](https://bcca-conference.org/2024/committee.php)), 2024
 
 - IEEE International Conference on Parallel and Distributed Systems ([ICPADS](https://attend.ieee.org/icpads/)), 2024
@@ -35,13 +39,9 @@ author_profile: true
 
 - 29th IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024
 
-- ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024-2025
-  
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems ([MASS](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)), 2024, (Security and Privacy Track) 
 
 - IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024 
-
-- IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023-2024 (Track of Security, Privacy, Trust and Blockchain) 
 
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 70 papers)
