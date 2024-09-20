@@ -35,7 +35,7 @@ author_profile: true
 
 - 29th IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024
 
-- 25th ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024 (Spring/Summer Cycle) 
+- ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024-2025
   
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems ([MASS](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)), 2024, (Security and Privacy Track) 
 
