@@ -7,9 +7,9 @@ author_profile: true
 
 ## Conference Organization
 
-- Session chair, MetaCom 2024 Workshop Session 1: [STIM & VSM](https://ieee-metacom.org/program.html)
-
 - Session chair, IEEE International Conference on Metaverse Computing, Networking, and Applications ([MetaCom](https://ieee-metacom.org/program.html)) 2024, (Session 3: Security, Privacy, and Trust)
+
+- Session chair, MetaCom 2024 Workshop Session 1: [STIM & VSM](https://ieee-metacom.org/program.html)
 
 - Session chair, IEEE International Conference on Distributed Computing Systems ([ICDCS](https://icdcs2024.icdcs.org/main-conference-program/)) 2024 (Session of Blockchain Scalability and Payments)
 
