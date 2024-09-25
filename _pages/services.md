@@ -68,6 +68,8 @@ author_profile: true
 
 - Elsevier Journal of Systems Architecture: Embedded Software Design (JSA), 2023
 
+- High-Confidence Computing (HCC), 2024
+
 - PeerJ Computer Science, 2024
 
 - Computer Modeling in Engineering & Sciences (CMES), 2024
