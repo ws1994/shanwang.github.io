@@ -23,7 +23,9 @@ author_profile: true
 
 1. **[ICC 2022]** - **Shan Wang**, Ming Yang, Tingjian Ge, Yan Luo, Xinwen Fu, "BBS: A Blockchain Big-Data Sharing System" [C], in Proceedings of IEEE International Conference on Communications (ICC), 16–20 May 2022 // Seoul, South Korea // Hybrid: In-Person and Virtual Conferenc. **[CCF-C]**
 
-3. **[INFOCOM 2024]** - Shan Jiang, Jiannong Cao, Cheung Leong Tung, Yuqin Wang, **Shan Wang**, "Sharon: Secure and Efficient Cross-shard Transaction Processing via Shard Rotation" [C], in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]** 
+3. **[INFOCOM 2024]** - Shan Jiang, Jiannong Cao, Cheung Leong Tung, Yuqin Wang, **Shan Wang**, "Sharon: Secure and Efficient Cross-shard Transaction Processing via Shard Rotation" [C], in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]**
+
+4. **[UIC 2024]** - Yuqin Wang, Jiannong Cao, Shan Jiang, **Shan Wang**, Hongbo Liu and Zhixuan Liang, "Efficient and Atomic Cross-Blockchain Transaction Processing for Decentralized Web3 Applications" [C], in Proceedings of the 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), December 2-7, 2024, Denarau Island, Fiji. **[CCF-C][AR 20.95%]**
 
 1. **[ICC 2021]** - Michael Cash, **Shan Wang**, Bryan Pearson, Qun Zhou, Xinwen Fu, "On Automating BACnet Device Discovery and Property Identification" [C], in Proceedings of IEEE International Conference on Communications (ICC), 14-23 June 2021 // Virtual / Montreal. DOI: 10.1109/ICC42927.2021.9500413. **[CCF-C]**
 
