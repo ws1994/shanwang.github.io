@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-- **August 2024**, Blockchain-based Data Sharing. JSSEC at Southeast University.
+- **August 2024**, Blockchain-based Data Sharing. JSSEC Lab at Southeast University.
 
 - **July 2024**, CORE: Transaction Commit-Controlled Release of Private Data over Blockchains. Proceedings of ICDCS’2024.
 
