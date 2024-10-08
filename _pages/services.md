@@ -27,6 +27,8 @@ author_profile: true
 
 ## TPC Member
 
+- IEEE International Conference on Communications ([ICC](https://icc2025.ieee-icc.org/)) 2025, (Communication & Information System Security Symposium)
+
 - ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024-2025
 
 - IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023-2024 (Track of Security, Privacy, Trust and Blockchain) 
