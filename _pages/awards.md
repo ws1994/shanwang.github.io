@@ -17,8 +17,6 @@ author_profile: true
   
 &ensp;&ensp;&ensp;&ensp; -- Private data leakage issues in Hyperledger Fabric
 
-- **2019-2021:** China Scholarship Council (CSC), Scholarship for Joint Ph.D. Student. $2.4w/year * 2 year
-
 - **2019-2021:** Southeast University Education Foundation, Scholarship for Joint Ph.D. Student. ¥6w/year * 2 year. [One of 20 Recipients in Southeast University]
 
 - **2018:** National scholarship for Ph.D Students in Cyber Security. ¥5w. [One of 73 Recipients in China]
