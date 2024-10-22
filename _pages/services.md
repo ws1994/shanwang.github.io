@@ -39,11 +39,12 @@ author_profile: true
 
 - 29th IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024
 
+- IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024-2025 
+
 - 6th IEEE International Conference on Blockchain Computing and Applications ([BCCA](https://bcca-conference.org/2024/committee.php)), 2024
 
 - 6th International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024 (Co-located with MASS 2024)
 
-- IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024 
 
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 70 papers)
