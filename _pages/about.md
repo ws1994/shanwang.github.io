@@ -24,7 +24,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **Oct. 2024** I will serve as a TPC member for IEEE International Conference on Communications (ICC) 2025, Communication & Information System Security Symposium
 
-- **Sep. 2024** I will serve as a TPC member for The 26th ACM/IFIP Middleware Conference 2025!
+- **Sep. 2024** I will serve as a TPC member for The 26th ACM/IFIP Middleware Conference 2025 (Fall/Winter Cycle)!
 
 - **Sep. 2024** I will serve as a Guest Editor for special issue "[Secure Data Privacy and Encryption in Digital Networks](https://www.mdpi.com/journal/electronics/special_issues/8K87O1YV29)", MDPI Electronics (ISSN 2079-9292), JCR-Q2, IF 2.6!
 
