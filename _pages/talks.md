@@ -5,13 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **Nov. 2024**, Deanonymizing Ethereum Users behind Third-Party RPC Services. Shenzhen University.
+
 - **August 2024**, Blockchain-based Data Sharing. JSSEC Lab at Southeast University.
 
 - **July 2024**, CORE: Transaction Commit-Controlled Release of Private Data over Blockchains. Proceedings of ICDCS’2024.
 
 - **May 2024**, Deanonymizing Ethereum Users behind Third-Party RPC Services. Proceedings of INFOCOM'2024.
 
-- **April 2024**, Blockchain-based Data Sharing. Host: Prof. Fei Chen at Shenzhen University.
+- **April 2024**, Blockchain-based Data Sharing. Shenzhen University.
 
 - **January 2023**, On Data Security in Permissioned Blockchains. Dept. of Computer Science, Virginia Tech.
   
