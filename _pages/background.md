@@ -15,7 +15,7 @@ author_profile: true
 
 - 2019.09 -- 2022.12, Joint Ph.D. Student in Computer Science, University of Massachusetts Lowell, USA. Advisor: Prof. [Xinwen Fu](https://www.cs.uml.edu/~xinwenfu/)    
 
-- 2016.09 -- 2022.12, Ph.D. in Cyberspace Security, Southeast University, China. Advisor: Prof. [Ming Yang](https://cs.seu.edu.cn/yangming2002/main.htm) 
+- 2016.09 -- 2022.12, Ph.D. in Cyberspace Security, Southeast University, China. Advisor: Prof. [Ming Yang](https://cs.seu.edu.cn/yangming2002/main.htm) & [Zhen Ling](https://cse.seu.edu.cn/2019/0105/c23024a257511/page.htm)
 
 - 2012.08 -- 2016.06, B.S. in Computer Science and Engineering, Southeast University, China 
 
