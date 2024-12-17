@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **Dec. 2024**, Deanonymizing Ethereum RPC Users. Shenzhen University Youth Scientist Forum.
+
 - **Nov. 2024**, Deanonymizing Ethereum Users behind Third-Party RPC Services. Shenzhen University.
 
 - **August 2024**, Blockchain-based Data Sharing. JSSEC Lab at Southeast University.
