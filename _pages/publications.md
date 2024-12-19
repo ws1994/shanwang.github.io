@@ -7,9 +7,9 @@ author_profile: true
 
 ## First-authored 
 
-1. **[ICDCS 2024]** - **Shan Wang**, Ming Yang, Jiannong Cao, Zhen Ling, Qiang Tang, and Xinwen Fu, "CORE: Transaction Commit-Controlled Release of Private Data over Blockchains" [C], in Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS). Jersey City, New Jersey, USA. 23 July - 26 July, 2024. **[CCF-B] [AR 21.9%, 121 out of 552] [Distinguished Paper Award] [Travel Grant]** 
+1. **[ICDCS 2024]** - **Shan Wang**, Ming Yang, Jiannong Cao, Zhen Ling, Qiang Tang, and Xinwen Fu, "CORE: Transaction Commit-Controlled Release of Private Data over Blockchains" [C], in Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS). Jersey City, New Jersey, USA. 23 July - 26 July, 2024. **[CCF-B] [AR 21.9%, 121 out of 552] [[Distinguished Paper Award](https://www.cs.uml.edu/~xinwenfu/images/ICDCS24-DistinguishedPaper.jpeg)] [Travel Grant]** 
 
-1. **[JSA 2024]** - **Shan Wang**, Ming Yang, Shan Jiang, Fei Chen, Yue Zhang, Xinwen Fu, "BBS: A Secure and Autonomous Blockchain-based Big-Data Sharing System" [J], Elsevier Journal of Systems Architecture (JSA), Volume 150, May 2024, 103133. **[CCF-B][JCR Q1]** [[Paper]](https://ws1994.github.io/shanwang.github.io/files/J2_JSA2024_BBS.pdf)
+1. **[JSA 2024]** - **Shan Wang**, Ming Yang, Shan Jiang, Fei Chen, Yue Zhang, Xinwen Fu, "BBS: A Secure and Autonomous Blockchain-based Big-Data Sharing System" [J], Elsevier Journal of Systems Architecture (JSA), Volume 150, May 2024, 103133. **[CCF-B][JCR Q1]** [[PDF]](https://ws1994.github.io/shanwang.github.io/files/J2_JSA2024_BBS.pdf)
 
 1. **[INFOCOM 2024]** - **Shan Wang**, Ming Yang, Wenxuan Dai, Yu Liu, Yue Zhang, Xinwen Fu, "Deanonymizing Ethereum Users behind Third-Party RPC Services" [C], in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]** 
 
