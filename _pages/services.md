@@ -7,9 +7,11 @@ author_profile: true
 
 ## Conference Organization
 
-- Session chair, IEEE International Conference on Metaverse Computing, Networking, and Applications ([MetaCom](https://ieee-metacom.org/program.html)) 2024, (Session 3: Security, Privacy, and Trust), and the co-located MetaCom 2024 Workshop Session 1: [STIM & VSM](https://ieee-metacom.org/program.html)
+- Web co-chair, The International Conference on Blockchain Research and Applications ([BCRA 2025](https://bcra-conf.github.io/2025/))
 
-- Session chair, IEEE International Conference on Distributed Computing Systems ([ICDCS](https://icdcs2024.icdcs.org/main-conference-program/)) 2024 (Session of Blockchain Scalability and Payments)
+- Session chair, IEEE International Conference on Metaverse Computing, Networking, and Applications ([MetaCom 2024](https://ieee-metacom.org/program.html)), (Session 3: Security, Privacy, and Trust), and the co-located MetaCom 2024 Workshop Session 1: [STIM & VSM](https://ieee-metacom.org/program.html)
+
+- Session chair, IEEE International Conference on Distributed Computing Systems ([ICDCS 2024](https://icdcs2024.icdcs.org/main-conference-program/)) (Session of Blockchain Scalability and Payments)
 
 - Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong
 
