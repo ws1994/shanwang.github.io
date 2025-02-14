@@ -5,7 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
-- **2024** Travel Grant supported by IEEE to attend ICDCS 2024. 
+- **2025:** A vulnerability bounty of 0.05154318 BTC.
+
+- **2024:** Travel Grant supported by IEEE to attend ICDCS 2024. 
 
 - **2024:** **Distinguished Paper Award. The 44th IEEE ICDCS 2024!** [5 out of 121 accepted papers]
 
