@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-- **2025:** A vulnerability bounty of **0.05154318 BTC**.
+- **2025:** A vulnerability bounty of **$5000 (0.05154318 BTC)**.
 
 - **2024:** Travel Grant supported by IEEE to attend ICDCS 2024. 
 
