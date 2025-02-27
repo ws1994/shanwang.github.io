@@ -49,7 +49,7 @@ author_profile: true
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2024. (Reviewed over 70 papers)
 
-- IEEE Transactions on Dependable and Secure Computing (TDSC), 2024 
+- IEEE Transactions on Dependable and Secure Computing (TDSC), 2024-2025 
 
 - IEEE Transactions on Information Forensics & Security (TIFS), 2024 
 
