@@ -27,6 +27,8 @@ author_profile: true
 
 ## TPC Member
 
+- IEEE Conference on Communications and Network Security (CNS), 2025
+
 - IEEE International Conference on Communications ([ICC](https://icc2025.ieee-icc.org/)) 2025, (Communication & Information System Security Symposium)
 
 - ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024-2025
