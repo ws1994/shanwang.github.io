@@ -27,7 +27,7 @@ author_profile: true
 
 ## TPC Member
 
-- IEEE Conference on Communications and Network Security (CNS), 2025
+- IEEE Conference on Communications and Network Security ([CNS](https://cns2025.ieee-cns.org/)), 2025
 
 - IEEE International Conference on Communications ([ICC](https://icc2025.ieee-icc.org/)) 2025, (Communication & Information System Security Symposium)
 
