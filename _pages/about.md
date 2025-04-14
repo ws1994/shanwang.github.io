@@ -42,7 +42,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **July 2024** I was awarded a Travel Grant supported by IEEE to attend ICDCS 2024!
 
-- **July 2024** **We win the 44th IEEE ICDCS 2024 Distinguished Paper Award!**
+- **July 2024** **Our Blockchain paper won the 44th IEEE ICDCS 2024 Distinguished Paper Award!**
 
 - **July 2024** I will serve as a TPC member for IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2024, and the Sixth International Conference on Blockchain Computing and Applications (BCCA) 2024!
 
