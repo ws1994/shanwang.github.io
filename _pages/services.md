@@ -43,13 +43,13 @@ author_profile: true
 
 - IEEE International Conference on Distributed Ledger Technologies ([ICDLT](https://icdlt.ieeepunesection.org/)), 2025
 
-- PolyU COMP - HKUST (GZ) INFH Research Student Conference, 2025
-
 - IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024
 
 - 6th IEEE International Conference on Blockchain Computing and Applications ([BCCA](https://bcca-conference.org/2024/committee.php)), 2024
 
 - 6th International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024 (Co-located with MASS 2024)
+
+- PolyU COMP - HKUST (GZ) INFH Research Student Conference, 2025
 
 
 ## Journal Reviewer
