@@ -7,13 +7,15 @@ author_profile: true
 
 ## Conference Organization
 
+- Organization co-chair, IEEE Workshop on Data Security and LLM Safety in Smart Systems ([DLS 2025](https://ieeemass2025.github.io/ieeemass2025/listofworkshops.html)) (co-located with IEEE MASS 2025)
+
 - Web co-chair, The International Conference on Blockchain Research and Applications ([BCRA 2025](https://bcra-conf.github.io/2025/))
 
 - Session chair, IEEE International Conference on Metaverse Computing, Networking, and Applications ([MetaCom 2024](https://ieee-metacom.org/program.html)), (Session 3: Security, Privacy, and Trust), and the co-located MetaCom 2024 Workshop Session 1: [STIM & VSM](https://ieee-metacom.org/program.html)
 
 - Session chair, IEEE International Conference on Distributed Computing Systems ([ICDCS 2024](https://icdcs2024.icdcs.org/main-conference-program/)) (Session of Blockchain Scalability and Payments)
 
-- Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong
+- Organizing chair, The IEEE MetaCom Workshop on Secure and Trustworthy Infrastructures for Metaverse ([STIM 2024](https://ieee-metacom.org/workshop_stim.html)), Hong Kong (co-located with IEEE MetaCom 2024)
 
 - Local organization and registration co-chair, The 25th ACM/IFIP [Middleware Conference 2024](https://middleware-conf.github.io/2024/organizing-committee/) 
   
