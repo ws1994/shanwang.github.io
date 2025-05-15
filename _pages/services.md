@@ -51,8 +51,6 @@ author_profile: true
 
 - 6th International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024 (Co-located with MASS 2024)
 
-- PolyU COMP - HKUST (GZ) INFH Research Student Conference, 2025
-
 
 ## Journal Reviewer
 - IEEE Internet of Things Journal (IoT-J), 2019-2025. (Reviewed around 80 papers)
