@@ -22,7 +22,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **May 2025** I will serve as a TPC member for The 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2025)!
 
-- **April 2025** We will organize The IEEE Workshop on Data Security and LLM Safety in Smart Systems (DLS) 2025 (co-located with IEEE MASS 2025)!
+- **April 2025** I will serve as the TPC Chair for The IEEE Workshop on Data Security and LLM Safety in Smart Systems (DLS) 2025 (co-located with IEEE MASS 2025)!
 
 - **March 2025** I will serve as a TPC member for IEEE International Conference on Distributed Ledger Technologies (ICDLT) 2025!
 
