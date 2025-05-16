@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Organization
 
-- Organization co-chair, IEEE Workshop on Data Security and LLM Safety in Smart Systems ([DLS 2025](https://ieeemass2025.github.io/ieeemass2025/listofworkshops.html)) (co-located with IEEE MASS 2025)
+- TPC chair, IEEE Workshop on Data Security and LLM Safety in Smart Systems ([DLS 2025](https://ieeemass2025.github.io/ieeemass2025/listofworkshops.html)) (co-located with IEEE MASS 2025)
 
 - Web co-chair, The International Conference on Blockchain Research and Applications ([BCRA 2025](https://bcra-conf.github.io/2025/))
 
