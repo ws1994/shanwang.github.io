@@ -57,7 +57,7 @@ author_profile: true
 
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2024-2025 
 
-- IEEE Transactions on Information Forensics & Security (TIFS), 2024 
+- IEEE Transactions on Information Forensics & Security (TIFS), 2024-2025 
 
 - IEEE Transactions on Mobile Computing (TMC), 2023
 
