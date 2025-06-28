@@ -112,7 +112,7 @@ author_profile: true
 
 - IEEE Conference on Dependable and Secure Computing (DSC) 2023
 
-- IEEE Military Communications Conference (MILCOM) 2022 
+- IEEE Military Communications Conference (MILCOM) 2022, 2025 
 
 - International Conference on Science of Cyber Security (SciSec) 2021
 
