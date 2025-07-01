@@ -24,7 +24,7 @@ author_profile: true
 
 ## Co-authored
 
-1.**[TNSE]** - Xiaorong Hao, Bo Liu, **Shan Wang**, Jiuxin Cao, Ding Zhou, Xinwen Fu, "EarlyDLM: Early Detecting Lateral Movements Through Graph and Loopback Sequence Embedding" [J], IEEE Transactions on Network Science and Engineering (TNSE), 10.1109/TNSE.2025.3584627
+1. **[TNSE]** - Xiaorong Hao, Bo Liu, **Shan Wang**, Jiuxin Cao, Ding Zhou, Xinwen Fu, "EarlyDLM: Early Detecting Lateral Movements Through Graph and Loopback Sequence Embedding" [J], IEEE Transactions on Network Science and Engineering (TNSE), 10.1109/TNSE.2025.3584627
 
 1. **[UIC 2024]** - Yuqin Wang, Jiannong Cao, Shan Jiang, **Shan Wang**, Hongbo Liu and Zhixuan Liang, "Efficient and Atomic Cross-Blockchain Transaction Processing for Decentralized Web3 Applications" [C], in Proceedings of the 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), December 2-7, 2024, Denarau Island, Fiji. **[CCF-C][AR 20.95%]**
 
