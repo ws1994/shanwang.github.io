@@ -20,13 +20,15 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us! [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
+- **July 2025:** **Our research on Ethereum user anonymity was funded by the Ethereum Foundation Academic Grants Round 2025! It's my first time serving as a Principal Investigator (PI)!**
+
 - **May 2025** I will serve as a TPC member for The 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2025)!
 
 - **April 2025** I will serve as the TPC Chair for The IEEE Workshop on Data Security and LLM Safety in Smart Systems (DLS) 2025 (co-located with IEEE MASS 2025)!
 
 - **March 2025** I will serve as a TPC member for IEEE Conference on Communications and Network Security (CNS) 2025!
 
-- **Feb. 2025** **We received a bug bounty of $5000 (0.05154318 BTC) [CVE-2025-43968] !**
+- **Feb. 2025:** **We received a bug bounty of $5000 (0.05154318 BTC) [CVE-2025-43968] !**
 
 - **Jan. 2025** I will serve as a web chair for The International Conference on Blockchain Research and Applications (BCRA) 2025!
 
@@ -42,7 +44,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **July 2024** I was awarded a Travel Grant supported by IEEE to attend ICDCS 2024!
 
-- **July 2024** **Our Blockchain paper won the 44th IEEE ICDCS 2024 Distinguished Paper Award!**
+- **July 2024:** **Our Blockchain paper won the 44th IEEE ICDCS 2024 Distinguished Paper Award!**
 
 - **July 2024** I will serve as a TPC member for IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2024, and the Sixth International Conference on Blockchain Computing and Applications (BCCA) 2024!
 
