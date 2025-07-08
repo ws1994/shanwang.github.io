@@ -49,7 +49,7 @@ author_profile: true
 
 - 6th IEEE International Conference on Blockchain Computing and Applications ([BCCA](https://bcca-conference.org/2024/committee.php)), 2024
 
-- 6th International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024 (Co-located with MASS 2024)
+- 6th International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024-2025 (Co-located with IEEE MASS)
 
 
 ## Journal Reviewer
