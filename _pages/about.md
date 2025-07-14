@@ -20,7 +20,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us! [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
-- **July 2025:** Our research on Ethereum user anonymity was funded by the **Ethereum Foundation** Academic Grants! **It's my first time serving as a Principal Investigator (PI)!**
+- **July 2025:** Our research on Ethereum user anonymity was funded by the **Ethereum Foundation** Academic Grants! **It's my first time serving as a Principal Investigator (PI)!** (EF_ESP Announcement at [Twitter](https://x.com/shanwan82472663/status/1943247013937832037), [Farcaster](https://farcaster.xyz/ef-esp/0x16b8dc3f), [Lens](https://hey.xyz/posts/39y9jwneg4yxb12tsew), [Bluesky](https://bsky.app/profile/ef-esp.bsky.social/post/3ltvbz4owlc2p))
 
 - **May 2025** I will serve as a TPC member for The 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2025)!
 
