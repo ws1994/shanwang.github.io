@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-- **2025:** **Ethereum Foundation Academic Grants**. Unraveling and Addressing Risks to Ethereum User Anonymity from Network Protocol Perspectives. Round 2025. **[I am the PI of this project]**
+- **2025:** **Ethereum Foundation Academic Grants**. Unraveling and Addressing Risks to Ethereum User Anonymity from Network Protocol Perspectives. Round 2025. **[I am the PI of this project].** EF_ESP Announcement at [Twitter](https://x.com/shanwan82472663/status/1943247013937832037), [Farcaster](https://farcaster.xyz/ef-esp/0x16b8dc3f), [Lens](https://hey.xyz/posts/39y9jwneg4yxb12tsew), [Bluesky](https://bsky.app/profile/ef-esp.bsky.social/post/3ltvbz4owlc2p) 
 
 - **2025:** A bug bounty of **$5000 (0.05154318 BTC)**. [CVE-2025-43968]
 
