@@ -18,6 +18,8 @@ author_profile: true
 - **April 2024**, Blockchain-based Data Sharing. Shenzhen University.
 
 - **January 2023**, On Data Security in Permissioned Blockchains. Dept. of Computer Science, Virginia Tech.
+
+- **January 2023**, On Security of Permissioned Blockchains. FSSL Lab at Syracuse University
   
 - **October 2022**, On Security of Proof-of-Policy (PoP) in the Execute-Order-Validate Blockchain Paradigm. Proceedings of CNS'2022.
 
