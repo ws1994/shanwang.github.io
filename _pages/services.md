@@ -33,7 +33,7 @@ author_profile: true
 
 - IEEE International Conference on Communications ([ICC](https://icc2025.ieee-icc.org/)) 2025, (Communication & Information System Security Symposium)
 
-- ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024-2025
+- ACM/IFIP Middleware Conference, ([Middleware](https://middleware-conf.github.io/2024/program-committee/)) 2024-2026
 
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems ([MASS](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)), 2024-2025
 
