@@ -37,7 +37,7 @@ author_profile: true
 
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems ([MASS](https://sites.google.com/view/ieee-mass-2024/commitee/program-committee?authuser=0)), 2024-2025
 
-- IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023-2024 (Track of Security, Privacy, Trust and Blockchain)
+- IEEE International Conference on Mobility, Sensing and Networking ([MSN](https://ieee-msn.org/2023/progcom.php)), 2023-2025 (Track of Security, Privacy, Trust and Blockchain)
 
 - IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024-2025
 
