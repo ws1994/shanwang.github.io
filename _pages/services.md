@@ -41,7 +41,7 @@ author_profile: true
 
 - IEEE Pacific Rim International Symposium on Dependable Computing ([PRDC](https://prdc.dependability.org/PRDC2024/organizing.html?id=tpc)), 2024-2025
 
-- IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024-2025
+- IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024-2026
 
 - IEEE International Conference on Distributed Ledger Technologies ([ICDLT](https://icdlt.ieeepunesection.org/)), 2025
 
