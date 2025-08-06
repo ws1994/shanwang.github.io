@@ -59,8 +59,6 @@ author_profile: true
 
 - IEEE Transactions on Information Forensics & Security (TIFS), 2024-2025
 
-- Blockchain: Research and Applications (BCRA), 2025
-
 - IEEE Transactions on Mobile Computing (TMC), 2023
 
 - IEEE Transactions on Wireless Communications (TWC), 2023
@@ -80,6 +78,8 @@ author_profile: true
 - Elsevier Computer Communications (COMCOM), 2024
 
 - Elsevier Journal of Systems Architecture: Embedded Software Design (JSA), 2023
+
+- Blockchain: Research and Applications (BCRA), 2025
 
 - High-Confidence Computing (HCC), 2024
 
