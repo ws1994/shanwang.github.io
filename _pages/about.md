@@ -22,11 +22,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **Aug. 2025** **One paper on blockchain user anonymity is accepted by CCS 2025!**
 
-- **Aug. 2025** I will serve as a TPC member for IEEE International Conference on Blockchain and Cryptocurrency (ICBC) 2026!
-
-- **Aug. 2025** I will serve as a TPC member for IEEE International Conference on Mobility, Sensing and Networking (MSN) 2025, Track of Security, Privacy, Trust and Blockchain!
-
-- **Aug. 2025** I will serve as a TPC member for The 27th ACM/IFIP Middleware Conference 2026!
+- **Aug. 2025** I will serve as a TPC member for The 27th ACM/IFIP Middleware Conference 2026, MSN 2025 (Track of Security, Privacy, Trust and Blockchain), and ICBC 2026!
 
 - **July 2025:** I will serve as a TPC member for the 30th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC) 2025!
 
