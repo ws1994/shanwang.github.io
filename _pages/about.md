@@ -20,6 +20,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us! [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
+- **Aug. 2025** The mitigation for our proposed deanonymization of Ethereum RPC users has been included in the **Ethereum "Trillion Dollar Security" project**!
+
 - **Aug. 2025** **One paper on blockchain user anonymity is accepted by CCS 2025!**
 
 - **Aug. 2025** I will serve as a TPC member for The 27th ACM/IFIP Middleware Conference 2026, MSN 2025 (Track of Security, Privacy, Trust and Blockchain), and ICBC 2026!
