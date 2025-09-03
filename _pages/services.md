@@ -43,9 +43,9 @@ author_profile: true
 
 - IEEE International Conference on Blockchain and Cryptocurrency ([ICBC](https://icbc2024.ieee-icbc.org/committees/technical-committee)), 2024-2026
 
-- IEEE International Conference on Distributed Ledger Technologies ([ICDLT](https://icdlt.ieeepunesection.org/)), 2025
-
 - IEEE International Conference on Parallel and Distributed Systems ([ICPADS](https://attend.ieee.org/icpads/)), 2024-2025
+
+- IEEE International Conference on Distributed Ledger Technologies ([ICDLT](https://icdlt.ieeepunesection.org/)), 2025
 
 - 6th IEEE International Conference on Blockchain Computing and Applications ([BCCA](https://bcca-conference.org/2024/committee.php)), 2024
 
