@@ -23,7 +23,7 @@ author_profile: true
 
 ## Journal Editors
 
-- Guest Editor, Special Issue "Safeguarding the Communication and Networking for AIoT Systems", IET Communications (ISSN 1751-8628), JCR-Q2, IF 1.6
+- Guest Editor, Special Issue "[Safeguarding the Communication and Networking for AIoT Systems](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518636/homepage/call-for-papers/si-2025-001208)", IET Communications (ISSN 1751-8628), JCR-Q2, IF 1.6
 
 - Guest Editor, Special Issue "[Secure Data Privacy and Encryption in Digital Networks](https://www.mdpi.com/journal/electronics/special_issues/8K87O1YV29)", MDPI Electronics (ISSN 2079-9292), JCR-Q2, IF 2.6 
 
