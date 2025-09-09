@@ -26,6 +26,8 @@ author_profile: true
 
 ## Co-authored
 
+1. **[S&P 2026]** - Chumian Wang, Junzhou Luo, Zhen Ling, Yue Zhang, **Shan Wang**, Ming Yang, Guangchi Liu, Xinwen Fu, "Descriptors of Exposure: Undermining Tor Anonymity through Exploiting Descriptor Flood" [C], in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P'26), San Francisco, California, USA, May 18-20, 2026.
+
 1. **[TNSE 2025]** - Xiaorong Hao, Bo Liu, **Shan Wang**, Jiuxin Cao, Ding Zhou, Xinwen Fu, "EarlyDLM: Early Detecting Lateral Movements Through Graph and Loopback Sequence Embedding" [J], IEEE Transactions on Network Science and Engineering (TNSE), 10.1109/TNSE.2025.3584627
 
 1. **[SWC 2024]** - Yuqin Wang, Jiannong Cao, Shan Jiang, **Shan Wang**, Hongbo Liu and Zhixuan Liang, "Efficient and Atomic Cross-Blockchain Transaction Processing for Decentralized Web3 Applications" [C], in Proceedings of 2024 IEEE Smart World Congress (SWC), December 2-7, 2024, Denarau Island, Fiji. 
