@@ -20,6 +20,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us! [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
+- **Sep. 2025** One paper on Tor Anonymity has been accepted by IEEE S&P 2026!
+
 - **Sep. 2025** I will serve as a TPC member for IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2025!
 
 - **Aug. 2025** Our proposed deanonymization attack against Ethereum and the mitigation stratigies have been included in the **Ethereum "Trillion Dollar Security" project**!
