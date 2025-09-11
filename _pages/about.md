@@ -22,7 +22,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **Sep. 2025** One paper on Tor Anonymity has been accepted by **IEEE S&P 2026**!
 
-- **Sep. 2025** I will serve as a Guest Editor for IET Communications's Special Issue "[Safeguarding the Communication and Networking for AIoT Systems](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518636/homepage/call-for-papers/si-2025-001208)"!
+- **Sep. 2025** I will serve as a Guest Editor for IET Communications, Special Issue "[Safeguarding the Communication and Networking for AIoT Systems](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518636/homepage/call-for-papers/si-2025-001208)"!
 
 - **Sep. 2025** I will serve as a TPC member for IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2025!
 
