@@ -26,8 +26,6 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **Sep. 2025** I will serve as a TPC member for IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2025!
 
-- **Aug. 2025** Our proposed deanonymization attack against Ethereum and the mitigation stratigies have been included in the **Ethereum "Trillion Dollar Security" Project**!
-
 - **Aug. 2025** **One paper on blockchain user anonymity is accepted by ACM CCS 2025!**
 
 - **Aug. 2025** I will serve as a TPC member for The 27th ACM/IFIP Middleware Conference 2026, MSN 2025 (Track of Security, Privacy, Trust and Blockchain), and ICBC 2026!
