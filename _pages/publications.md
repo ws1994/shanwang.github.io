@@ -7,7 +7,7 @@ author_profile: true
 
 ## First-authored 
 
-1. **[CCS 2025]** - **Shan Wang**, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, Jiannong Cao and Xinwen Fu. "Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee" [C], in Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS). Taipei, Taiwan, October 13-17, 2025. **[BIG4] [CCF-A] [CVE-2025-43968] [Bug Bounty] [Ethereum Foundation Academic Grants] [Ethereum “Trillion Dollar Security” project]**
+1. **[CCS 2025]** - **Shan Wang**, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, Jiannong Cao and Xinwen Fu. "Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee" [C], in Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS). Taipei, Taiwan, October 13-17, 2025. **[BIG4] [CCF-A] [CVE-2025-43968] [Bug Bounty] [Ethereum Foundation Academic Grants]**
 
 1. **[ICDCS 2024]** - **Shan Wang**, Ming Yang, Jiannong Cao, Zhen Ling, Qiang Tang, and Xinwen Fu, "CORE: Transaction Commit-Controlled Release of Private Data over Blockchains" [C], in Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS). Jersey City, New Jersey, USA. 23 July - 26 July, 2024. **[CCF-B] [AR 21.9%, 121 out of 552] [[Distinguished Paper Award](https://www.cs.uml.edu/~xinwenfu/images/ICDCS24-DistinguishedPaper.jpeg)] [Travel Grant]** 
 
