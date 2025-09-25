@@ -20,7 +20,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - We have several PostDoc, Ph.D. and RA positions opening. Welcome to join us! [Advertisement](https://www4.comp.polyu.edu.hk/~shanjiang/IMCL-Blockchain-AD-2023-09.pdf)
 
-- **Sep. 2025** I will serve as a member of the Youth Editorial Board for Blockchain (ISSN 2958-8138)!
+- **Sep. 2025** I will serve as a member of the Youth Editorial Board for [Blockchain](https://www.elspub.com/journals/blockchain/home/) (ISSN 2958-8138)!
 
 - **Sep. 2025** One paper on Tor Anonymity has been accepted by **IEEE S&P 2026**!
 
