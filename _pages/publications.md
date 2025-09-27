@@ -12,7 +12,7 @@ author_profile: true
 
 1. **[TNSE 2025]** - Xiaorong Hao, Bo Liu, **Shan Wang**, Jiuxin Cao, Ding Zhou, Xinwen Fu, "EarlyDLM: Early Detecting Lateral Movements Through Graph and Loopback Sequence Embedding" [J], IEEE Transactions on Network Science and Engineering (TNSE), 10.1109/TNSE.2025.3584627
 
-1. **[ICDCS 2024]** - **Shan Wang**, Ming Yang, Jiannong Cao, Zhen Ling, Qiang Tang, and Xinwen Fu, "CORE: Transaction Commit-Controlled Release of Private Data over Blockchains" [C], in Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS). Jersey City, New Jersey, USA. 23 July - 26 July, 2024. **[CCF-B] [AR 21.9%, 121 out of 552] [[Distinguished Paper Award](https://www.cs.uml.edu/~xinwenfu/images/ICDCS24-DistinguishedPaper.jpeg)] [Travel Grant]** 
+1. **[ICDCS 2024]** - **Shan Wang**, Ming Yang, Jiannong Cao, Zhen Ling, Qiang Tang, and Xinwen Fu, "CORE: Transaction Commit-Controlled Release of Private Data over Blockchains" [C], in Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS). Jersey City, New Jersey, USA. 23 July - 26 July, 2024. **[CCF-B] [AR 21.9%, 121 out of 552] [Distinguished Paper Award, AR <1%, 5 out of 552] [Travel Grant]** 
 
 1. **[JSA 2024]** - **Shan Wang**, Ming Yang, Shan Jiang, Fei Chen, Yue Zhang, Xinwen Fu, "BBS: A Secure and Autonomous Blockchain-based Big-Data Sharing System" [J], Elsevier Journal of Systems Architecture (JSA), Volume 150, May 2024, 103133. **[CCF-B][JCR Q1]** [[PDF]](https://ws1994.github.io/shanwang.github.io/files/J2_JSA2024_BBS.pdf)
 
