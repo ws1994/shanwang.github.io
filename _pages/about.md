@@ -18,6 +18,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 ## News!
 
+- **Oct. 2025** I will serve as a TPC member for IEEE International Conference on Communications (ICC) 2026, Communication & Information System Security Symposium!
+
 - **Sep. 2025** I will serve as a Youth Editorial Board member for [Blockchain](https://www.elspub.com/journals/blockchain/home/) (ISSN 2958-8138)!
 
 - **Sep. 2025** One paper on Tor Anonymity has been accepted by **IEEE S&P 2026**!
