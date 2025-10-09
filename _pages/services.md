@@ -23,6 +23,8 @@ author_profile: true
 
 ## Journal Editors
 
+- Guest Editor, Special Issue "[Blockchain User Privacy and Anonymity: From Vulnerabilities to Protections](https://www.elspub.com/journals/blockchain/special_issues/blockchain-user-privacy-and-anonymity)", Blockchain (ISSN 2958-8138)
+
 - Youth Editorial Board Member, [Blockchain](https://www.elspub.com/journals/blockchain/home/) (ISSN 2958-8138), 2025-2027
 
 - Guest Editor, Special Issue "[Safeguarding the Communication and Networking for AIoT Systems](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518636/homepage/call-for-papers/si-2025-001208)", IET Communications (ISSN 1751-8628), JCR-Q2, IF 1.6
