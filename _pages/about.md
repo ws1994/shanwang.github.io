@@ -18,6 +18,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 ## News!
 
+- **Oct. 2025** I will serve as a Guest Editor for Blockchain (ISSN 2958-8138), Special Issue "[Blockchain User Privacy and Anonymity: From Vulnerabilities to Protections](https://www.elspub.com/journals/blockchain/special_issues/blockchain-user-privacy-and-anonymity)"!
+  
 - **Oct. 2025** I will serve as a TPC member for IEEE International Conference on Communications (ICC) 2026!
 
 - **Sep. 2025** I will serve as a Youth Editorial Board member for [Blockchain](https://www.elspub.com/journals/blockchain/home/) (ISSN 2958-8138)!
