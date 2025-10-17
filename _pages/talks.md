@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **Oct. 2025**, Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee. Proceedings of CCS’2025. 
+
 - **Dec. 2024**, Deanonymizing Ethereum RPC Users. Shenzhen University Youth Scientist Forum.
 
 - **Nov. 2024**, Deanonymizing Ethereum Users behind Third-Party RPC Services. Shenzhen University.
