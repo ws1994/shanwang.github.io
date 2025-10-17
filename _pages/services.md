@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Organization
 
+- Session chair, The 32nd ACM Conference on Computer and Communications Security ([CCS 2025](https://www.sigsac.org/ccs/CCS2025/schedule/)) (Session of Network Security #4)
+
 - TPC chair, IEEE Workshop on Data Security and LLM Safety in Smart Systems ([DLS 2025](https://ieeemass2025.github.io/ieeemass2025/listofworkshops.html)) (co-located with IEEE MASS 2025)
 
 - Web co-chair, The International Conference on Blockchain Research and Applications ([BCRA 2025](https://bcra-conf.github.io/2025/))
