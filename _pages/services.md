@@ -89,6 +89,8 @@ author_profile: true
 
 - Blockchain: Research and Applications (BCRA), 2025
 
+- ELSP Blockchain, 2025
+
 - High-Confidence Computing (HCC), 2024
 
 - PeerJ Computer Science, 2024
