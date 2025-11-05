@@ -44,7 +44,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **March 2025** I will serve as a TPC member for IEEE Conference on Communications and Network Security (CNS) 2025!
 
-- **Feb. 2025:** **We received a bug bounty of $5000 (0.05154318 BTC) [CVE-2025-43968] !**
+- **Feb. 2025:** **We received a bug bounty of $5000 [CVE-2025-43968] !**
 
 - **Jan. 2025** I will serve as a web chair for The International Conference on Blockchain Research and Applications (BCRA) 2025!
 
