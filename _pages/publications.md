@@ -5,6 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Representative Publications
+
+1. **[CCS 2025]** - **Shan Wang**, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, Jiannong Cao and Xinwen Fu. "Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee" [C], in Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS). Taipei, Taiwan, October 13-17, 2025. **[BIG4] [CCF-A] [AR 14.5%, 316 out of 2186] [CVE-2025-43968] [Bug Bounty] [Ethereum Foundation Academic Grants]**
+
+2. **[ICDCS 2024]** - **Shan Wang**, Ming Yang, Jiannong Cao, Zhen Ling, Qiang Tang, and Xinwen Fu, "CORE: Transaction Commit-Controlled Release of Private Data over Blockchains" [C], in Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS). Jersey City, New Jersey, USA. 23 July - 26 July, 2024. **[CCF-B] [AR 21.9%, 121 out of 552] [Distinguished Paper Award, AR <1%, 5 out of 552] [Travel Grant]**
+
+3. **[INFOCOM 2024]** - **Shan Wang**, Ming Yang, Wenxuan Dai, Yu Liu, Yue Zhang, Xinwen Fu, "Deanonymizing Ethereum Users behind Third-Party RPC Services" [C], in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]**
+
+4. **[ICDCS 2022]** - **Shan Wang**, Zhen Ling, Yue Zhang, Ruizhao Liu, Joshua Kraunelisk, Kang Jia, Bryan Pearson, Xinwen Fu. "Implication of Animation on Android Security" [C], in Proceedings of 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), July 10 - July 13, 2022 // Bologna, Italy. **[CCF-B][AR 19.9%, 114 out of 573]**
+
+5. **[ICDCS 2021]** - **Shan Wang**, Ming Yang, Yue Zhang, Yan Luo, Tingjian Ge, Xinwen Fu, Wei Zhao. "On Private Data Collection of Hyperledger Fabric" [C], in Proceedings of 41st IEEE International Conference on Distributed Computing Systems (ICDCS), July 7 - July 10, 2021. **[CCF-B][AR 19.8%, 97 out of 489]**
+
+
+
+## Full Publication List
 
 1. **[S&P 2026]** - Chunmian Wang, Junzhou Luo, Zhen Ling, Yue Zhang, **Shan Wang**, Ming Yang, Guangchi Liu, Xinwen Fu, "Descriptors of Exposure: Undermining Tor Anonymity through Exploiting Descriptor Flood" [C], in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P'26), San Francisco, California, USA, May 18-20, 2026. **[BIG4] [CCF-A]**
 
