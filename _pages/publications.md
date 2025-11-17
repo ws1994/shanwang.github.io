@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Representative
+## Representative Publications
 
 1. **[CCS 2025]** - **Shan Wang**, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, Jiannong Cao and Xinwen Fu. "Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee" [C], in Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS). Taipei, Taiwan, October 13-17, 2025. **[BIG4] [CCF-A] [AR 14.5%, 316 out of 2186] [CVE-2025-43968] [Bug Bounty] [Ethereum Foundation Academic Grants]**
 
