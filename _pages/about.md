@@ -26,7 +26,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **Sep. 2025** I will serve as a Youth Editorial Board member for [Blockchain](https://www.elspub.com/journals/blockchain/home/) (ISSN 2958-8138)!
 
-- **Sep. 2025** One paper on Tor Anonymity has been accepted by **IEEE S&P 2026**!
+- **Sep. 2025** **One paper on Tor Anonymity has been accepted by IEEE S&P 2026**!
 
 - **Sep. 2025** I will serve as a Guest Editor for IET Communications, Special Issue "[Safeguarding the Communication and Networking for AIoT Systems](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518636/homepage/call-for-papers/si-2025-001208)"!
 
