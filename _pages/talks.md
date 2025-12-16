@@ -7,7 +7,9 @@ author_profile: true
 
 - **Dec. 2025**, Revisiting Blockchain Anonymity from a Network-Protocol Perspective. 中国人工智能学会社会计算青年科学家大会2025
 
-- **Oct. 2025**, Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee. Proceedings of CCS’2025. 
+- **Oct. 2025**, Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee. Proceedings of CCS’2025.
+
+- **Sep. 2025**, Blockchain Data Security and User Anonymity. Shandong University.
 
 - **Dec. 2024**, Deanonymizing Ethereum RPC Users. Shenzhen University Youth Scientist Forum.
 
