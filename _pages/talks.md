@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-- **Dec. 2025**, Revisiting Blockchain Anonymity from a Network-Protocol Perspective. 中国人工智能学会社会计算青年科学家大会2025
+- **Dec. 2025**, Revisiting Blockchain Anonymity from a Network-Protocol Perspective. 中国人工智能学会2025社会计算青年科学家大会
 
 - **Oct. 2025**, Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee. Proceedings of CCS’2025.
 
