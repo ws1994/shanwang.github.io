@@ -72,7 +72,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 - **May 2024** I will serve as a TPC member for The 25th ACM/IFIP Middleware Conference 2024 (Spring/Summer Cycle)!
 
-- **April 2024** One paper on blockchain and crypto is accepted by ICDCS 2024!
+- **April 2024** **One paper on blockchain and crypto is accepted by ICDCS 2024!**
 
 - **March 2024** One paper on blockchain-based data sharing system is accepted by Elsevier Journal of Systems Architecture 
  (JSA)!
