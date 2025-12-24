@@ -7,7 +7,7 @@ author_profile: true
 
 ## Representative Papers
 
-1. **[CCS 2025]** - **Shan Wang**, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, Jiannong Cao and Xinwen Fu. "Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee" [C], in Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS). Taipei, Taiwan, October 13-17, 2025. **[BIG4] [CCF-A] [AR 14.5%, 316 out of 2186] [CVE-2025-43968] [Bug Bounty] [Ethereum Foundation Academic Grants]**
+1. **[CCS 2025]** - **Shan Wang**, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, Jiannong Cao and Xinwen Fu. "Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee" [C], in Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS). Taipei, October 13-17, 2025. **[BIG4] [CCF-A] [AR 14.5%, 316 out of 2186] [CVE-2025-43968] [Bug Bounty] [Ethereum Foundation Academic Grants]**
 
 2. **[ICDCS 2024]** - **Shan Wang**, Ming Yang, Jiannong Cao, Zhen Ling, Qiang Tang, and Xinwen Fu, "CORE: Transaction Commit-Controlled Release of Private Data over Blockchains" [C], in Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS). Jersey City, New Jersey, USA. 23 July - 26 July, 2024. **[CCF-B] [AR 21.9%, 121 out of 552] [Distinguished Paper Award, AR <1%, 5 out of 552] [Travel Grant]**
 
@@ -25,7 +25,7 @@ author_profile: true
 
 1. **[S&P 2026]** - Chunmian Wang, Junzhou Luo, Zhen Ling, Yue Zhang, **Shan Wang**, Ming Yang, Guangchi Liu, Xinwen Fu, "Descriptors of Exposure: Undermining Tor Anonymity through Exploiting Descriptor Flood" [C], in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P'26), San Francisco, California, USA, May 18-20, 2026. **[BIG4] [CCF-A]**
 
-1. **[CCS 2025]** - **Shan Wang**, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, Jiannong Cao and Xinwen Fu. "Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee" [C], in Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS). Taipei, Taiwan, October 13-17, 2025. **[BIG4] [CCF-A] [AR 14.5%, 316 out of 2186] [CVE-2025-43968] [Bug Bounty] [Ethereum Foundation Academic Grants]**
+1. **[CCS 2025]** - **Shan Wang**, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, Jiannong Cao and Xinwen Fu. "Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee" [C], in Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS). Taipei, October 13-17, 2025. **[BIG4] [CCF-A] [AR 14.5%, 316 out of 2186] [CVE-2025-43968] [Bug Bounty] [Ethereum Foundation Academic Grants]**
 
 1. **[TNSE 2025]** - Xiaorong Hao, Bo Liu, **Shan Wang**, Jiuxin Cao, Ding Zhou, Xinwen Fu, "EarlyDLM: Early Detecting Lateral Movements Through Graph and Loopback Sequence Embedding" [J], IEEE Transactions on Network Science and Engineering (TNSE), 10.1109/TNSE.2025.3584627
 
