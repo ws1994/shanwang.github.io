@@ -7,7 +7,7 @@ author_profile: true
 
 - **Dec. 2025**, 面向区块链RPC用户的零交易费去匿名方法. 黄大年茶思屋2025青年学者技术专题研讨会
 
-- **Dec. 2025**, Revisiting Blockchain Anonymity from a Network-Protocol Perspective. 中国人工智能学会2025社会计算青年科学家大会
+- **Dec. 2025**, Revisiting Blockchain Anonymity from a Network-Protocol Perspective. CAAI 2025社会计算青年科学家大会
 
 - **Oct. 2025**, Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee. Proceedings of CCS’2025.
 
