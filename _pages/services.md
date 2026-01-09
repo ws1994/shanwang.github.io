@@ -110,7 +110,7 @@ author_profile: true
 
 - EAI International Conference on Security and Privacy in Communication Networks (SecureComm) 2023-2024 
 
-- IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2025
+- IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2025-2026
 
 - IEEE International Conference on Mobile Ad Hoc and Smart Systems (MASS) 2024
 
