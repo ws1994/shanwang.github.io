@@ -18,6 +18,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 ## News!
 
+- **Jan. 2026** **Our work on Ethereum Anonymity was funded by Ethereum Foundation again via Direct Grant!**
+
 - **Dec. 2025** **One paper on Freenet Anonymity has been accepted by INFOCOM 2026!**
 
 - **Oct. 2025** I will serve as a Guest Editor for Blockchain (ISSN 2958-8138), Special Issue "[Blockchain User Privacy and Anonymity: From Vulnerabilities to Protections](https://www.elspub.com/journals/blockchain/special_issues/blockchain-user-privacy-and-anonymity)"!
