@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **Jan. 2026**, 区块链用户匿名与数据安全. 中山大学软件工程学院博学论坛
+
 - **Dec. 2025**, 面向区块链RPC用户的零交易费去匿名方法. 黄大年茶思屋2025青年学者技术专题研讨会
 
 - **Dec. 2025**, Revisiting Blockchain Anonymity from a Network-Protocol Perspective. CAAI 2025社会计算青年科学家大会
