@@ -93,7 +93,7 @@ author_profile: true
 
 - ELSP Blockchain, 2025
 
-- High-Confidence Computing (HCC), 2024
+- High-Confidence Computing (HCC), 2024, 2026
 
 - PeerJ Computer Science, 2024
 
