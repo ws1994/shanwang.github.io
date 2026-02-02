@@ -21,7 +21,7 @@ author_profile: true
 
 ## Full List
 
-1. **[CSCWD 2026]** - Yonghuan Xu, Ming Yang, Xiaodan Gu, **Shan Wang**. "Identifying Uploaders in Freenet via Under-Filled Packets" [C], in proceedings of the 30th IEEE International Conference on Computer supported Cooperative Work in Design (CSCWD). Fuzhou, China. 2026. **[CCF-C]**
+1. **[CSCWD 2026]** - Yonghuan Xu, Ming Yang, Xiaodan Gu, **Shan Wang**. "Identifying Uploaders in Freenet via Under-Filled Packets" [C], in proceedings of the 29th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Fuzhou, China. 13-15 May 2026. **[CCF-C]**
 
 1. **[INFOCOM 2026]** - Yonghuan Xu, Ming Yang, **Shan Wang**, Xiaodan Gu, Zixia Liu, Zhen Ling. "Your Outer Appearance Mirrors Your Inner Self: Exploiting Unobservable Node Internals to Deanonymize Uploaders in Freenet" [C], in Proceedings of the 45th IEEE International Conference on Computer Communications (INFOCOM). Tokyo, Japan. 18-21 May 2026. **[CCF-A][AR 18.9%, 329 out of 1740]**
 
