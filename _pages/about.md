@@ -18,6 +18,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 ## News!
 
+- **Feb. 2026:** I will serve as a **Track Co-Chair** for IEEE International Conference on Computing, Networking and Communications (ICNC), 2027 (Communications and Information Security Track)!
+
 - **Jan. 2026:** **Our work on Ethereum Anonymity was funded by Ethereum Foundation again via Direct Grant!**
 
 - **Dec. 2025:** **One paper on Freenet Anonymity has been accepted by INFOCOM 2026!**
