@@ -18,7 +18,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 ## News!
 
-- **March 2026:** **One paper on Network Covert Channel has been accepted by TDSC 2026!**
+- **Mar. 2026:** **One paper on Network Covert Channel has been accepted by TDSC 2026!**
 
 - **Feb. 2026:** I will serve as a **Track Co-Chair** for IEEE International Conference on Computing, Networking and Communications (ICNC), 2027 (Communications and Information Security Track)!
 
