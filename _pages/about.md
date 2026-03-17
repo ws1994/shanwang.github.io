@@ -18,7 +18,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 ## News!
 
-- **Mar. 2026:** I will serve as a TPC member for The International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2026!
+- **Mar. 2026:** I will serve as a TPC member for The International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2026, IEEE Conference on Communications and Network Security (CNS) 2026, and International Conference on Computer Communications and Networks (ICCCN) 2026!
 
 - **Mar. 2026:** **One paper on Network Covert Channel has been accepted by TDSC 2026!**
 
