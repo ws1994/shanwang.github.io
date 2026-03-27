@@ -81,7 +81,7 @@ author_profile: true
 
 - IEEE Transactions on Green Communications and Networking (TGCN), 2023
 
-- IEEE Internet Computing, 2024
+- IEEE Internet Computing, 2024, 2026
 
 - ACM Computing Surveys (CSUR), 2023
 
