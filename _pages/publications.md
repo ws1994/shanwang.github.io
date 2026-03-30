@@ -13,10 +13,6 @@ author_profile: true
 
 3. **[INFOCOM 2024]** - **Shan Wang**, Ming Yang, Wenxuan Dai, Yu Liu, Yue Zhang, Xinwen Fu, "Deanonymizing Ethereum Users behind Third-Party RPC Services" [C], in Proceedings of the 43rd IEEE International Conference on Computer Communications (INFOCOM'24), Vancouver, Canada, May 20-23, 2024. **[CCF-A][AR 19.6%, 256 out of 1307]**
 
-4. **[ICDCS 2022]** - **Shan Wang**, Zhen Ling, Yue Zhang, Ruizhao Liu, Joshua Kraunelisk, Kang Jia, Bryan Pearson, Xinwen Fu. "Implication of Animation on Android Security" [C], in Proceedings of 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), July 10 - July 13, 2022 // Bologna, Italy. **[CCF-B][AR 19.9%, 114 out of 573]**
-
-5. **[ICDCS 2021]** - **Shan Wang**, Ming Yang, Yue Zhang, Yan Luo, Tingjian Ge, Xinwen Fu, Wei Zhao. "On Private Data Collection of Hyperledger Fabric" [C], in Proceedings of 41st IEEE International Conference on Distributed Computing Systems (ICDCS), July 7 - July 10, 2021. **[CCF-B][AR 19.8%, 97 out of 489]**
-
 
 
 ## Full List
