@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Organization
 
-- General co-chair, IEEE Workshop on Data Security and LLM Safety in Smart Systems (DLS 2026) (co-located with IEEE MASS 2026)
+- General co-chair, IEEE Workshop on Data Security and LLM Safety in Smart Systems ([DLS 2026]( https://bds-sdu.github.io/DLS-2026/)) (co-located with IEEE MASS 2026)
 
 -  Track Co-Chair, IEEE International Conference on Computing, Networking and Communications (ICNC 2027) (Communications and Information Security Track)
 
@@ -43,7 +43,7 @@ author_profile: true
 
 - International Conference on Computer Communications and Networks (ICCCN), 2026 (Track of Security, Privacy, and Trust)
 
-- The International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2026
+- The International Symposium on Research in Attacks, Intrusions and Defenses ([RAID](https://raid2026.org/committees.html)), 2026
 
 - The ACM Web Conference (WWW), 2026 (Security and Privacy Track)
 
