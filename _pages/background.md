@@ -7,7 +7,7 @@ author_profile: true
 
 ## Professional Experience
 
-- 2023.05 -- , Postdoctoral Fellow, Department of Computing, The Hong Kong Polytechnic University. Advisor: Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/)
+- 2023.05 -- 2026.05, Postdoctoral Fellow, Department of Computing, The Hong Kong Polytechnic University. Advisor: Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/)
 
 - 2022.12 -- 2023.05, Research Assisstant, Department of Computer Science, University of Massachusetts Lowell, USA. Advisor: Prof. [Xinwen Fu](https://www.cs.uml.edu/~xinwenfu/)  
 
