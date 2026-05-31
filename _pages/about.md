@@ -13,7 +13,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 ---
 **Research Interests:** Blockchain
 
-**Email:** <shanwangsec@gmail.com> OR <shan-cs.wang@polyu.edu.hk> 
+**Email:** <shanwangsec@gmail.com> OR ~~<shan-cs.wang@polyu.edu.hk>~~ (Note: This PolyU email is no longer active and will no longer be used.)
 
 
 ## News!
