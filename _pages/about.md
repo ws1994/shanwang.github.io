@@ -18,6 +18,8 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 ## News!
 
+- **June 2026: I will serve as a PC member for USENIX Security 2027!**
+
 - **Apr. 2026:** I will serve as the General Co-Chair for The IEEE Workshop on Data Security and LLM Safety in Smart Systems (DLS) 2026 (co-located with IEEE MASS 2026)!
 
 - **Mar. 2026:** I will serve as a TPC member for The International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2026, IEEE Conference on Communications and Network Security (CNS) 2026, and International Conference on Computer Communications and Networks (ICCCN) 2026!
