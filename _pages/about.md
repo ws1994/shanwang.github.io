@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Kong Polytechnic University. I obtained my Ph.D. degree from Southeast University on Dec. 19, 2022. Prior to that, I obtained my B.S. degree from Southeast University in 2016. In the period from Sep. 2019 to May 2023, I studied at UMass Lowell, USA as a visiting scholar. My past work mainly focuses on the permissioned blockchain (especially Hyperledger Fabric). Currently, I am working on application of crypto in blockchain and blockchain user anonymity.
+I am currently a tenure-track associate professor in the School of Computer Science and Technology at Shandong University. Previously, I was a Postdoctoral Fellow in the Department of Computing, The Hong Kong Polytechnic University. I obtained my Ph.D. degree from Southeast University on Dec. 19, 2022. Prior to that, I obtained my B.S. degree from Southeast University in 2016. In the period from Sep. 2019 to May 2023, I studied at UMass Lowell, USA as a visiting scholar. My past work mainly focuses on the permissioned blockchain (especially Hyperledger Fabric). Currently, I am working on application of crypto in blockchain and blockchain user anonymity.
 
 ---
 **Research Interests:** Blockchain
 
-**Email:** <shanwangsec@gmail.com> OR ~~<shan-cs.wang@polyu.edu.hk>~~ (Note: This PolyU email is no longer active and will no longer be used.)
+**Email:** <shanwangsec@gmail.com> OR shanwang@sdu.edu.cn
+
+~~<shan-cs.wang@polyu.edu.hk>~~ (Note: This PolyU email is no longer active and will no longer be used.)
 
 
 ## News!
+
+- **July 2026:** I join the School of Computer Science and Technology at Shandong University as a Tenure-Track Associate Professor!
 
 - **June 2026: I will serve as a PC member for USENIX Security 2027!**
 
