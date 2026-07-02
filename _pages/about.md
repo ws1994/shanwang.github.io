@@ -13,7 +13,7 @@ I am currently a tenure-track associate professor in the School of Computer Scie
 ---
 **Research Interests:** Blockchain
 
-**Email:** <shanwangsec@gmail.com> OR shanwang@sdu.edu.cn
+**Email:** <shanwangsec@gmail.com> OR <shanwang@sdu.edu.cn>
 
 ~~<shan-cs.wang@polyu.edu.hk>~~ (Note: This PolyU email is no longer active and will no longer be used.)
 
