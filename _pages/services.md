@@ -9,7 +9,7 @@ author_profile: true
 
 - General co-chair, IEEE Workshop on Data Security and LLM Safety in Smart Systems ([DLS 2026]( https://bds-sdu.github.io/DLS-2026/)) (co-located with IEEE MASS 2026)
 
--  Track Co-Chair, IEEE International Conference on Computing, Networking and Communications (ICNC 2027) (Communications and Information Security Track)
+-  Track Co-Chair, IEEE International Conference on Computing, Networking and Communications ([ICNC 2027](https://www.conf-icnc.org/2027/)) (Communications and Information Security Track)
 
 - Session chair, The 32nd ACM Conference on Computer and Communications Security ([CCS 2025](https://www.sigsac.org/ccs/CCS2025/schedule/)) (Session of Network Security #4)
 
@@ -27,17 +27,6 @@ author_profile: true
   
 - Publicity and social media chair, The 5th EAI International Conference on Edge Computing and IoT: Systems, Management and Security ([ICECI 2024](https://iceci-conference.eai-conferences.org/2024/committees/))
 
-## Journal Editors
-
-- Guest Editor, Special Issue "[Blockchain User Privacy and Anonymity: From Vulnerabilities to Protections](https://www.elspub.com/journals/blockchain/special_issues/blockchain-user-privacy-and-anonymity)", Blockchain (ISSN 2958-8138)
-
-- Youth Editorial Board Member, [Blockchain](https://www.elspub.com/journals/blockchain/home/) (ISSN 2958-8138), 2025-2027
-
-- Guest Editor, Special Issue "[Safeguarding the Communication and Networking for AIoT Systems](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518636/homepage/call-for-papers/si-2025-001208)", IET Communications (ISSN 1751-8628), JCR-Q2, IF 1.6
-
-- Guest Editor, Special Issue "[Secure Data Privacy and Encryption in Digital Networks](https://www.mdpi.com/journal/electronics/special_issues/8K87O1YV29)", MDPI Electronics (ISSN 2079-9292), JCR-Q2, IF 2.6 
-
-- Guest Editor, Special Issue "[Symmetry and Asymmetry in IoT Security](https://www.mdpi.com/journal/symmetry/special_issues/I29705V1C3)", MDPI Symmetry (ISSN 2073-8994), JCR-Q2, IF 2.7
 
 ## TPC Member
 
@@ -70,6 +59,18 @@ author_profile: true
 - 6th IEEE International Conference on Blockchain Computing and Applications ([BCCA](https://bcca-conference.org/2024/committee.php)), 2024
 
 - 6th International Workshop on Smart Living with IoT, Cloud and Edge Computing ([SLICE](https://slice.iitr.ac.in/about.html)), 2024-2025 (Co-located with IEEE MASS)
+
+## Journal Editors
+
+- Guest Editor, Special Issue "[Blockchain User Privacy and Anonymity: From Vulnerabilities to Protections](https://www.elspub.com/journals/blockchain/special_issues/blockchain-user-privacy-and-anonymity)", Blockchain (ISSN 2958-8138)
+
+- Youth Editorial Board Member, [Blockchain](https://www.elspub.com/journals/blockchain/home/) (ISSN 2958-8138), 2025-2027
+
+- Guest Editor, Special Issue "[Safeguarding the Communication and Networking for AIoT Systems](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518636/homepage/call-for-papers/si-2025-001208)", IET Communications (ISSN 1751-8628), JCR-Q2, IF 1.6
+
+- Guest Editor, Special Issue "[Secure Data Privacy and Encryption in Digital Networks](https://www.mdpi.com/journal/electronics/special_issues/8K87O1YV29)", MDPI Electronics (ISSN 2079-9292), JCR-Q2, IF 2.6 
+
+- Guest Editor, Special Issue "[Symmetry and Asymmetry in IoT Security](https://www.mdpi.com/journal/symmetry/special_issues/I29705V1C3)", MDPI Symmetry (ISSN 2073-8994), JCR-Q2, IF 2.7
 
 
 ## Journal Reviewer
