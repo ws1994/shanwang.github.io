@@ -30,7 +30,9 @@ author_profile: true
 
 ## TPC Member
 
-- **USENIX Security Symposium 2027**
+- **The Network and Distributed System Security Symposium (NDSS), 2027** 
+
+- **USENIX Security Symposium (Security), 2027**
 
 - International Conference on Computer Communications and Networks (ICCCN), 2026 (Track of Security, Privacy, and Trust)
 
