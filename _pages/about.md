@@ -20,7 +20,7 @@ I am currently a Postdoctoral Fellow in the Department of Computing, The Hong Ko
 
 ## News!
 
-- **Aug. 2026: I will serve as a PC member for The Network and Distributed System Security Symposium (NDSS) 2027!**
+- **Aug. 2026: I will serve as a PC member for NDSS 2027!**
 
 - **June 2026: I will serve as a PC member for USENIX Security 2027!**
 
