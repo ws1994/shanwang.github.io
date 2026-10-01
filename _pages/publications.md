@@ -17,6 +17,8 @@ author_profile: true
 
 ## Full List
 
+1. **[HCC 2026]** - Wenxuan Yu, Minghui Xu, Yuanzhe Zhang, Guangyong Shang, Guangpeng Qi, Dongliang Duan, **Shan Wang**, Kun Li, Yue Zhang. "Starfish: Rebalancing multi-party off-chain payment channels" [J]. Elsevier High-Confidence Computing (HCC), 2026. [CCF-C]
+
 1. **[TDSC 2026]** - Qi Chen, Ming Yang, Zhen Ling, Zixia Liu, Lan Luo, Changwei Cao, **Shan Wang**, Xinwen Fu. "A Tor-based Anonymous Network Covert Channel" [J]. IEEE Transactions on Dependable and Secure Computing (TDSC). 2026. **[CCF-A]**
 
 1. **[CSCWD 2026]** - Yonghuan Xu, Ming Yang, Xiaodan Gu, **Shan Wang**. "Identifying Uploaders in Freenet via Under-Filled Packets" [C], in proceedings of the 29th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD). Fuzhou, China. 13-15 May 2026. **[CCF-C]**
