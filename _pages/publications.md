@@ -17,7 +17,9 @@ author_profile: true
 
 ## Full List
 
-1. **[HCC 2026]** - Wenxuan Yu, Minghui Xu, Yuanzhe Zhang, Guangyong Shang, Guangpeng Qi, Dongliang Duan, **Shan Wang**, Kun Li, Yue Zhang. "Starfish: Rebalancing multi-party off-chain payment channels" [J]. Elsevier High-Confidence Computing (HCC), 2026. [CCF-C]
+1. **[ACSAC 2026]** - Lan Luo, Zixia Liu, Xinhui Shao, Yumeng Wei, **Shan Wang**, Zhen Ling, Xiao Zheng, Yue Zhang, and Xinwen Fu. "Med-ASLR: Memory-Efficient Differentiated Address Space Layout Randomization for Resource-Constrained Internet of Things Devices" [C]. in Proceedings of the 42nd Annual Computer Security Applications Conference (ACSAC). Los Angeles, California, USA, Dec. 7-11, 2026. **[CCF-B]**
+
+1. **[HCC 2026]** - Wenxuan Yu, Minghui Xu, Yuanzhe Zhang, Guangyong Shang, Guangpeng Qi, Dongliang Duan, **Shan Wang**, Kun Li, Yue Zhang. "Starfish: Rebalancing multi-party off-chain payment channels" [J]. Elsevier High-Confidence Computing (HCC), 2026. **[CCF-C]**
 
 1. **[TDSC 2026]** - Qi Chen, Ming Yang, Zhen Ling, Zixia Liu, Lan Luo, Changwei Cao, **Shan Wang**, Xinwen Fu. "A Tor-based Anonymous Network Covert Channel" [J]. IEEE Transactions on Dependable and Secure Computing (TDSC). 2026. **[CCF-A]**
 
