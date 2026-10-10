@@ -26,7 +26,7 @@ I was a Postdoctoral Fellow in the Department of Computing, The Hong Kong Polyte
 
 - **Apr. 2026:** I will serve as the General Co-Chair for The IEEE Workshop on Data Security and LLM Safety in Smart Systems (DLS) 2026 (co-located with IEEE MASS 2026)!
 
-- **Mar. 2026:** I will serve as a TPC member for **The International Symposium on Research in Attacks, Intrusions and Defenses (RAID) 2026**, IEEE Conference on Communications and Network Security (CNS) 2026, and International Conference on Computer Communications and Networks (ICCCN) 2026!
+- **Mar. 2026:** I will serve as a TPC member for **RAID 2026**!
 
 - **Mar. 2026:** **One paper on Network Covert Channel has been accepted by TDSC 2026!**
 
@@ -35,8 +35,6 @@ I was a Postdoctoral Fellow in the Department of Computing, The Hong Kong Polyte
 - **Jan. 2026:** **Our work on Ethereum Anonymity was funded by Ethereum Foundation again via Direct Grant!**
 
 - **Dec. 2025:** **One paper on Freenet Anonymity has been accepted by INFOCOM 2026!**
-
-- **Oct. 2025:** I will serve as a Guest Editor for Blockchain (ISSN 2958-8138), Special Issue "[Blockchain User Privacy and Anonymity: From Vulnerabilities to Protections](https://www.elspub.com/journals/blockchain/special_issues/blockchain-user-privacy-and-anonymity)"!
   
 - **Oct. 2025:** I will serve as a TPC member for IEEE International Conference on Communications (ICC) 2026!
 
